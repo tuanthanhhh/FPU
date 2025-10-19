@@ -1,6 +1,6 @@
 EDA Netlist Writer report for FPU_32b
-Sun Oct 19 10:21:45 2025
-Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+Sun Oct 19 14:10:24 2025
+Quartus II 32-bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
 ---------------------
@@ -36,7 +36,7 @@ applicable agreement for further details.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Sun Oct 19 10:21:45 2025 ;
+; EDA Netlist Writer Status ; Successful - Sun Oct 19 14:10:24 2025 ;
 ; Revision Name             ; FPU_32b                               ;
 ; Top-level Entity Name     ; FPU_32b                               ;
 ; Family                    ; Cyclone II                            ;
@@ -78,14 +78,14 @@ applicable agreement for further details.
 ; EDA Netlist Writer Messages ;
 +-----------------------------+
 Info: *******************************************************************
-Info: Running Quartus II 64-Bit EDA Netlist Writer
+Info: Running Quartus II 32-bit EDA Netlist Writer
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Sun Oct 19 10:21:44 2025
+    Info: Processing started: Sun Oct 19 14:10:23 2025
 Info: Command: quartus_eda --functional=on --simulation=on --tool=modelsim_oem --format=verilog FPU_32b -c FPU_32b
 Info (204019): Generated file FPU_32b.vo in folder "C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/simulation/modelsim/" for EDA simulation tool
-Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 4530 megabytes
-    Info: Processing ended: Sun Oct 19 10:21:45 2025
+Info: Quartus II 32-bit EDA Netlist Writer was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 334 megabytes
+    Info: Processing ended: Sun Oct 19 14:10:24 2025
     Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:01
 

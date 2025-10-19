@@ -1,5 +1,5 @@
 Analysis & Synthesis report for FPU_32b
-Sat Oct 18 20:14:08 2025
+Sun Oct 19 14:07:10 2025
 Quartus II 32-bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -44,15 +44,15 @@ applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Sat Oct 18 20:14:08 2025           ;
+; Analysis & Synthesis Status        ; Successful - Sun Oct 19 14:07:10 2025           ;
 ; Quartus II 32-bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
 ; Revision Name                      ; FPU_32b                                         ;
 ; Top-level Entity Name              ; FPU_32b                                         ;
 ; Family                             ; Cyclone II                                      ;
-; Total logic elements               ; 1,316                                           ;
-;     Total combinational functions  ; 1,211                                           ;
-;     Dedicated logic registers      ; 288                                             ;
-; Total registers                    ; 288                                             ;
+; Total logic elements               ; 1,313                                           ;
+;     Total combinational functions  ; 1,216                                           ;
+;     Dedicated logic registers      ; 282                                             ;
+; Total registers                    ; 282                                             ;
 ; Total pins                         ; 106                                             ;
 ; Total virtual pins                 ; 0                                               ;
 ; Total memory bits                  ; 0                                               ;
@@ -177,27 +177,27 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +---------------------------------------------+-------+
 ; Resource                                    ; Usage ;
 +---------------------------------------------+-------+
-; Estimated Total logic elements              ; 1,316 ;
+; Estimated Total logic elements              ; 1,313 ;
 ;                                             ;       ;
-; Total combinational functions               ; 1211  ;
+; Total combinational functions               ; 1216  ;
 ; Logic element usage by number of LUT inputs ;       ;
-;     -- 4 input functions                    ; 608   ;
-;     -- 3 input functions                    ; 345   ;
-;     -- <=2 input functions                  ; 258   ;
+;     -- 4 input functions                    ; 606   ;
+;     -- 3 input functions                    ; 349   ;
+;     -- <=2 input functions                  ; 261   ;
 ;                                             ;       ;
 ; Logic elements by mode                      ;       ;
-;     -- normal mode                          ; 863   ;
-;     -- arithmetic mode                      ; 348   ;
+;     -- normal mode                          ; 867   ;
+;     -- arithmetic mode                      ; 349   ;
 ;                                             ;       ;
-; Total registers                             ; 288   ;
-;     -- Dedicated logic registers            ; 288   ;
+; Total registers                             ; 282   ;
+;     -- Dedicated logic registers            ; 282   ;
 ;     -- I/O registers                        ; 0     ;
 ;                                             ;       ;
 ; I/O pins                                    ; 106   ;
 ; Embedded Multiplier 9-bit elements          ; 0     ;
 ; Maximum fan-out node                        ; clk_i ;
-; Maximum fan-out                             ; 288   ;
-; Total fan-out                               ; 4972  ;
+; Maximum fan-out                             ; 282   ;
+; Total fan-out                               ; 4966  ;
 ; Average fan-out                             ; 3.10  ;
 +---------------------------------------------+-------+
 
@@ -207,13 +207,13 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +-------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+-----------------------------------+--------------+
 ; Compilation Hierarchy Node    ; LC Combinationals ; LC Registers ; Memory Bits ; DSP Elements ; DSP 9x9 ; DSP 18x18 ; Pins ; Virtual Pins ; Full Hierarchy Name               ; Library Name ;
 +-------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+-----------------------------------+--------------+
-; |FPU_32b                      ; 1211 (15)         ; 288 (0)      ; 0           ; 0            ; 0       ; 0         ; 106  ; 0            ; |FPU_32b                          ; work         ;
+; |FPU_32b                      ; 1216 (15)         ; 282 (0)      ; 0           ; 0            ; 0       ; 0         ; 106  ; 0            ; |FPU_32b                          ; work         ;
 ;    |Add_Sub_mantisa:u_addsub| ; 141 (141)         ; 29 (29)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |FPU_32b|Add_Sub_mantisa:u_addsub ; work         ;
-;    |Normalize:u_normalize|    ; 763 (763)         ; 35 (35)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |FPU_32b|Normalize:u_normalize    ; work         ;
+;    |Normalize:u_normalize|    ; 767 (767)         ; 36 (36)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |FPU_32b|Normalize:u_normalize    ; work         ;
 ;    |Unpack:u_unpack|          ; 6 (6)             ; 66 (66)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |FPU_32b|Unpack:u_unpack          ; work         ;
 ;    |pack:u_pack|              ; 0 (0)             ; 32 (32)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |FPU_32b|pack:u_pack              ; work         ;
 ;    |pre_normalize:u_pre_norm| ; 228 (228)         ; 62 (62)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |FPU_32b|pre_normalize:u_pre_norm ; work         ;
-;    |rounding:u_rounding|      ; 58 (58)           ; 64 (64)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |FPU_32b|rounding:u_rounding      ; work         ;
+;    |rounding:u_rounding|      ; 59 (59)           ; 57 (57)      ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |FPU_32b|rounding:u_rounding      ; work         ;
 +-------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+-----------------------------------+--------------+
 Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
 
@@ -234,34 +234,34 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +----------------------------------------------+-------+
 ; Statistic                                    ; Value ;
 +----------------------------------------------+-------+
-; Total registers                              ; 288   ;
-; Number of registers using Synchronous Clear  ; 56    ;
-; Number of registers using Synchronous Load   ; 66    ;
-; Number of registers using Asynchronous Clear ; 225   ;
+; Total registers                              ; 282   ;
+; Number of registers using Synchronous Clear  ; 57    ;
+; Number of registers using Synchronous Load   ; 67    ;
+; Number of registers using Asynchronous Clear ; 219   ;
 ; Number of registers using Asynchronous Load  ; 0     ;
 ; Number of registers using Clock Enable       ; 1     ;
 ; Number of registers using Preset             ; 0     ;
 +----------------------------------------------+-------+
 
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Multiplexer Restructuring Statistics (Restructuring Performed)                                                                                                   ;
-+--------------------+-----------+---------------+----------------------+------------------------+------------+----------------------------------------------------+
-; Multiplexer Inputs ; Bus Width ; Baseline Area ; Area if Restructured ; Saving if Restructured ; Registered ; Example Multiplexer Output                         ;
-+--------------------+-----------+---------------+----------------------+------------------------+------------+----------------------------------------------------+
-; 3:1                ; 3 bits    ; 6 LEs         ; 3 LEs                ; 3 LEs                  ; Yes        ; |FPU_32b|pre_normalize:u_pre_norm|mantB_aligned[2] ;
-; 3:1                ; 3 bits    ; 6 LEs         ; 3 LEs                ; 3 LEs                  ; Yes        ; |FPU_32b|pre_normalize:u_pre_norm|mantA_aligned[2] ;
-; 3:1                ; 48 bits   ; 96 LEs        ; 96 LEs               ; 0 LEs                  ; Yes        ; |FPU_32b|pre_normalize:u_pre_norm|mantA_aligned[3] ;
-; 3:1                ; 28 bits   ; 56 LEs        ; 56 LEs               ; 0 LEs                  ; Yes        ; |FPU_32b|Add_Sub_mantisa:u_addsub|mantisa_raw[13]  ;
-; 7:1                ; 24 bits   ; 96 LEs        ; 24 LEs               ; 72 LEs                 ; Yes        ; |FPU_32b|rounding:u_rounding|mant_temp[22]         ;
-; 30:1               ; 5 bits    ; 100 LEs       ; 90 LEs               ; 10 LEs                 ; Yes        ; |FPU_32b|Normalize:u_normalize|exp_norm[7]         ;
-; 4:1                ; 11 bits   ; 22 LEs        ; 11 LEs               ; 11 LEs                 ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[19]   ;
-; 5:1                ; 5 bits    ; 15 LEs        ; 10 LEs               ; 5 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[11]   ;
-; 5:1                ; 3 bits    ; 9 LEs         ; 6 LEs                ; 3 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[8]    ;
-; 6:1                ; 4 bits    ; 16 LEs        ; 12 LEs               ; 4 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[4]    ;
-; 7:1                ; 2 bits    ; 8 LEs         ; 6 LEs                ; 2 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[0]    ;
-; 7:1                ; 2 bits    ; 8 LEs         ; 8 LEs                ; 0 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[2]    ;
-+--------------------+-----------+---------------+----------------------+------------------------+------------+----------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Multiplexer Restructuring Statistics (Restructuring Performed)                                                                                                    ;
++--------------------+-----------+---------------+----------------------+------------------------+------------+-----------------------------------------------------+
+; Multiplexer Inputs ; Bus Width ; Baseline Area ; Area if Restructured ; Saving if Restructured ; Registered ; Example Multiplexer Output                          ;
++--------------------+-----------+---------------+----------------------+------------------------+------------+-----------------------------------------------------+
+; 3:1                ; 3 bits    ; 6 LEs         ; 3 LEs                ; 3 LEs                  ; Yes        ; |FPU_32b|pre_normalize:u_pre_norm|mantB_aligned[0]  ;
+; 3:1                ; 3 bits    ; 6 LEs         ; 3 LEs                ; 3 LEs                  ; Yes        ; |FPU_32b|pre_normalize:u_pre_norm|mantA_aligned[1]  ;
+; 3:1                ; 48 bits   ; 96 LEs        ; 96 LEs               ; 0 LEs                  ; Yes        ; |FPU_32b|pre_normalize:u_pre_norm|mantA_aligned[15] ;
+; 3:1                ; 28 bits   ; 56 LEs        ; 56 LEs               ; 0 LEs                  ; Yes        ; |FPU_32b|Add_Sub_mantisa:u_addsub|mantisa_raw[9]    ;
+; 7:1                ; 25 bits   ; 100 LEs       ; 25 LEs               ; 75 LEs                 ; Yes        ; |FPU_32b|rounding:u_rounding|mant_temp[13]          ;
+; 30:1               ; 5 bits    ; 100 LEs       ; 90 LEs               ; 10 LEs                 ; Yes        ; |FPU_32b|Normalize:u_normalize|exp_norm[3]          ;
+; 4:1                ; 11 bits   ; 22 LEs        ; 11 LEs               ; 11 LEs                 ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[23]    ;
+; 5:1                ; 5 bits    ; 15 LEs        ; 10 LEs               ; 5 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[11]    ;
+; 5:1                ; 3 bits    ; 9 LEs         ; 6 LEs                ; 3 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[8]     ;
+; 6:1                ; 4 bits    ; 16 LEs        ; 12 LEs               ; 4 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[4]     ;
+; 7:1                ; 2 bits    ; 8 LEs         ; 6 LEs                ; 2 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[0]     ;
+; 7:1                ; 2 bits    ; 8 LEs         ; 8 LEs                ; 0 LEs                  ; No         ; |FPU_32b|pre_normalize:u_pre_norm|frac_shift[2]     ;
++--------------------+-----------+---------------+----------------------+------------------------+------------+-----------------------------------------------------+
 
 
 +-------------------------------+
@@ -279,7 +279,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus II 32-bit Analysis & Synthesis
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Sat Oct 18 20:13:50 2025
+    Info: Processing started: Sun Oct 19 14:06:53 2025
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off FPU_32b -c FPU_32b
 Warning (20028): Parallel compilation is not licensed and has been disabled
 Info (12021): Found 1 design units, including 1 entities, in source file fpu_32b.v
@@ -305,20 +305,24 @@ Info (12128): Elaborating entity "pre_normalize" for hierarchy "pre_normalize:u_
 Info (12128): Elaborating entity "Normalize" for hierarchy "Normalize:u_normalize"
 Warning (10230): Verilog HDL assignment warning at Normalize.v(32): truncated value with size 32 to match size of target (8)
 Info (12128): Elaborating entity "rounding" for hierarchy "rounding:u_rounding"
+Warning (10230): Verilog HDL assignment warning at rounding.v(37): truncated value with size 32 to match size of target (25)
+Warning (10230): Verilog HDL assignment warning at rounding.v(51): truncated value with size 32 to match size of target (25)
+Warning (10230): Verilog HDL assignment warning at rounding.v(61): truncated value with size 32 to match size of target (25)
+Warning (10230): Verilog HDL assignment warning at rounding.v(78): truncated value with size 32 to match size of target (8)
 Info (12128): Elaborating entity "pack" for hierarchy "pack:u_pack"
 Warning (13024): Output pins are stuck at VCC or GND
     Warning (13410): Pin "ine" is stuck at GND
 Info (144001): Generated suppressed messages file C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/output_files/FPU_32b.map.smsg
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
     Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
-Info (21057): Implemented 1422 device resources after synthesis - the final resource count might be different
+Info (21057): Implemented 1419 device resources after synthesis - the final resource count might be different
     Info (21058): Implemented 69 input pins
     Info (21059): Implemented 37 output pins
-    Info (21061): Implemented 1316 logic cells
-Info: Quartus II 32-bit Analysis & Synthesis was successful. 0 errors, 4 warnings
-    Info: Peak virtual memory: 375 megabytes
-    Info: Processing ended: Sat Oct 18 20:14:08 2025
-    Info: Elapsed time: 00:00:18
+    Info (21061): Implemented 1313 logic cells
+Info: Quartus II 32-bit Analysis & Synthesis was successful. 0 errors, 8 warnings
+    Info: Peak virtual memory: 376 megabytes
+    Info: Processing ended: Sun Oct 19 14:07:10 2025
+    Info: Elapsed time: 00:00:17
     Info: Total CPU time (on all processors): 00:00:16
 
 

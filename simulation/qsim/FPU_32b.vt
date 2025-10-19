@@ -18,7 +18,7 @@
 // the top level entity of the current Quartus project .The user can use this   
 // testbench to simulate his design using a third-party simulation tool .       
 // *****************************************************************************
-// Generated on "10/19/2025 10:21:44"
+// Generated on "10/19/2025 14:10:23"
                                                                         
 // Verilog Self-Checking Test Bench (with test vectors) for design :    FPU_32b
 // 
@@ -890,24 +890,23 @@ FPU_32b i1 (
 // RST
 initial
 begin
-	RST = 1'b1;
-	RST = #110000 1'b0;
-	RST = #50000 1'b1;
-	RST = #50000 1'b0;
+	RST = 1'b0;
 end 
 
 // clk_i
 always
 begin
 	clk_i = 1'b0;
-	clk_i = #50000 1'b1;
-	#50000;
+	clk_i = #10000 1'b1;
+	#10000;
 end 
 
 // fpu_op_i
 initial
 begin
 	fpu_op_i = 1'b0;
+	fpu_op_i = #210000 1'b1;
+	fpu_op_i = #290000 1'b0;
 end 
 // mode_i[ 1 ]
 initial

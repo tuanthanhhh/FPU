@@ -2,7 +2,7 @@ library verilog;
 use verilog.vl_types.all;
 entity rounding is
     port(
-        mantisa_norm    : in     vl_logic_vector(26 downto 0);
+        mantisa_norm    : in     vl_logic_vector(27 downto 0);
         exp_norm        : in     vl_logic_vector(7 downto 0);
         sign_norm       : in     vl_logic;
         clk             : in     vl_logic;

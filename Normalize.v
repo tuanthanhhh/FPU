@@ -3,7 +3,7 @@ module Normalize(
     input  wire [7:0]  exp_common,
     input  wire clk,
     input  wire rst,
-    output reg [26:0] mantisa_norm,
+    output reg [27:0] mantisa_norm,
     output reg [7:0]  exp_norm
 );
 	reg [27:0] mant_temp;
@@ -33,7 +33,7 @@ module Normalize(
 				end
 			end
 			
-			mantisa_norm <= mant_temp[26:0];
+			mantisa_norm <= mant_temp[27:0];
 			exp_norm <= exp_temp;
 		end
 	end

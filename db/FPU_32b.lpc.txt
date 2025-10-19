@@ -4,8 +4,8 @@
 ; Hierarchy   ; Input ; Constant Input ; Unused Input ; Floating Input ; Output ; Constant Output ; Unused Output ; Floating Output ; Bidir ; Constant Bidir ; Unused Bidir ; Input only Bidir ; Output only Bidir ;
 +-------------+-------+----------------+--------------+----------------+--------+-----------------+---------------+-----------------+-------+----------------+--------------+------------------+-------------------+
 ; u_pack      ; 34    ; 0              ; 0            ; 0              ; 32     ; 0               ; 0             ; 0               ; 0     ; 0              ; 0            ; 0                ; 0                 ;
-; u_rounding  ; 40    ; 0              ; 0            ; 0              ; 31     ; 0               ; 0             ; 0               ; 0     ; 0              ; 0            ; 0                ; 0                 ;
-; u_normalize ; 38    ; 0              ; 0            ; 0              ; 35     ; 0               ; 0             ; 0               ; 0     ; 0              ; 0            ; 0                ; 0                 ;
+; u_rounding  ; 41    ; 0              ; 0            ; 0              ; 31     ; 0               ; 0             ; 0               ; 0     ; 0              ; 0            ; 0                ; 0                 ;
+; u_normalize ; 38    ; 0              ; 0            ; 0              ; 36     ; 0               ; 0             ; 0               ; 0     ; 0              ; 0            ; 0                ; 0                 ;
 ; u_pre_norm  ; 66    ; 0              ; 0            ; 0              ; 64     ; 0               ; 0             ; 0               ; 0     ; 0              ; 0            ; 0                ; 0                 ;
 ; u_addsub    ; 61    ; 0              ; 0            ; 0              ; 29     ; 0               ; 0             ; 0               ; 0     ; 0              ; 0            ; 0                ; 0                 ;
 ; u_unpack    ; 66    ; 0              ; 0            ; 0              ; 66     ; 0               ; 0             ; 0               ; 0     ; 0              ; 0            ; 0                ; 0                 ;

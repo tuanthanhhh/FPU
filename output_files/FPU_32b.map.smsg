@@ -1,2 +1,2 @@
 Warning (10268): Verilog HDL information at Normalize.v(13): always construct contains both blocking and non-blocking assignments
-Warning (10268): Verilog HDL information at rounding.v(22): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at rounding.v(21): always construct contains both blocking and non-blocking assignments

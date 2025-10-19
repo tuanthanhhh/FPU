@@ -25,7 +25,7 @@ module FPU_32b(
 	wire [27:0] mantisa_raw;
 	wire sign_result;
 	
-	wire [26:0] mantisa_norm;
+	wire [27:0] mantisa_norm;
 	wire [7:0] exp_norm;
 	
 	wire [22:0] mantisa_round;

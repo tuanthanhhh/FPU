@@ -1,23 +1,9 @@
-{C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/FPU_32b.v} {1 {vlog -work work {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/FPU_32b.v}
+{C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Unpack.v} {1 {vlog -work work {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Unpack.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module FPU_32b
+-- Compiling module Unpack
 
 Top level modules:
-	FPU_32b
-
-} {} {}} {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Add_Sub_mantisa.v} {1 {vlog -work work {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Add_Sub_mantisa.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module Add_Sub_mantisa
-
-Top level modules:
-	Add_Sub_mantisa
-
-} {} {}} {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/rounding.v} {1 {vlog -work work {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/rounding.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module rounding
-
-Top level modules:
-	rounding
+	Unpack
 
 } {} {}} {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/tb_FPU_32b.v} {1 {vlog -work work {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/tb_FPU_32b.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -26,12 +12,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	tb_FPU_32b
 
-} {} {}} {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Unpack.v} {1 {vlog -work work {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Unpack.v}
+} {} {}} {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/pre_normalize.v} {1 {vlog -work work {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/pre_normalize.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module Unpack
+-- Compiling module pre_normalize
 
 Top level modules:
-	Unpack
+	pre_normalize
 
 } {} {}} {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Pack.v} {1 {vlog -work work {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Pack.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -39,12 +25,5 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	pack
-
-} {} {}} {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/pre_normalize.v} {1 {vlog -work work {C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/pre_normalize.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module pre_normalize
-
-Top level modules:
-	pre_normalize
 
 } {} {}}
