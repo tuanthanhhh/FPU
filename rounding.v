@@ -29,15 +29,15 @@ module rounding(
 			exp_temp <= 8'b0;
 		end else
 		begin
-			mant_temp <= mant;
-			exp_temp <= exp_norm;
-			overflow <= 1'b0;
 			case(mode)
 			2'b00:
 			begin
 				if(G && (R | S | mant[0]))
 				begin
 					mant_temp <= mant + 24'b1;
+				end else
+				begin
+					mant_temp <= mant;
 				end
 			end
 			2'b01:
@@ -49,6 +49,9 @@ module rounding(
 				if((sign_norm == 1'b0) && (G | R | S))
 				begin
 					mant_temp <= mant + 24'b1;
+				end else
+				begin
+					mant_temp <= mant;
 				end
 			end
 			2'b11:
@@ -56,17 +59,23 @@ module rounding(
 				if((sign_norm == 1'b1) && (G | R | S))
 				begin
 					mant_temp <= mant + 24'b1;
+				end else
+				begin
+				mant_temp <= mant;
 				end
 			end
 			endcase
 			if(mant_temp[23] == 1'b1)
 			begin
 				overflow <= 1'b1;
+			end else
+			begin
+				overflow <= 1'b0;
 			end
 			
 			mant_shifted = overflow ? (mant_temp >> 1) : mant_temp;
-			mantisa_round <= mant_shifted[22:0];
-			exp_round <= overflow? (exp_temp + 8'b1) : exp_temp;
+			mantisa_round = mant_shifted[22:0];
+			exp_round = overflow? (exp_temp + 8'b1) : exp_temp;
 		end
 	end
 endmodule 

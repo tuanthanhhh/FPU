@@ -17322,646 +17322,6 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|zero~0_combout")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[7]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[6]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[5]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[4]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[3]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[2]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[1]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[0]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[23]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[22]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[21]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[20]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[19]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[18]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[17]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[16]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[15]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[14]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[13]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[12]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[11]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[10]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[9]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[8]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[7]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[6]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[5]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[4]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[3]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[2]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[1]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[0]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[23]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[22]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[21]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[20]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[19]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[18]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[17]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[16]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[15]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[14]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[13]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[12]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[11]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[10]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[9]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[8]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[7]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[6]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[5]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[4]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[3]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[2]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[1]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[0]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[7]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[6]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[5]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[4]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[3]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[2]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[1]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
-SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[0]")
-{
-	VALUE_TYPE = NINE_LEVEL_BIT;
-	SIGNAL_TYPE = SINGLE_BIT;
-	WIDTH = 1;
-	LSB_INDEX = -1;
-	DIRECTION = INPUT;
-	PARENT = "";
-}
-
 SIGNAL("FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[27]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
@@ -20182,7 +19542,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|u_pack|result[0]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|mode_i~combout[1]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[31]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20192,7 +19552,307 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|mode_i~combout[1]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|mode_i~combout[0]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[30]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[29]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[28]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[27]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[26]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[25]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[24]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[23]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[22]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[21]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[20]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[19]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[18]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[17]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[16]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[15]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[14]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[13]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[12]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[11]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[10]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[9]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[8]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20522,7 +20182,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opa_i~combout[0]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[31]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|mode_i~combout[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20532,7 +20192,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[31]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[30]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|mode_i~combout[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20542,7 +20202,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[30]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[29]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[23]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20552,7 +20212,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[29]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[28]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[22]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20562,7 +20222,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[28]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[27]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[21]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20572,7 +20232,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[27]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[26]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[20]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20582,7 +20242,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[26]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[25]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[19]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20592,7 +20252,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[25]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[24]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[18]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20602,7 +20262,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[24]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[23]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[17]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20612,7 +20272,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[23]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[22]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[16]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20622,7 +20282,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[22]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[21]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[15]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20632,7 +20292,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[21]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[20]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[14]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20642,7 +20302,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[20]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[19]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[13]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20652,7 +20312,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[19]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[18]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[12]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20662,7 +20322,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[18]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[17]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[11]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20672,7 +20332,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[17]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[16]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[10]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20682,7 +20342,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[16]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[15]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[9]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20692,7 +20352,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[15]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[14]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[8]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20702,7 +20362,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[14]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[13]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[7]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20712,7 +20372,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[13]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[12]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[6]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20722,7 +20382,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[12]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[11]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[5]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20732,7 +20392,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[11]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[10]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[4]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20742,7 +20402,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[10]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[9]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[3]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20752,7 +20412,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[9]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[8]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[2]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20762,7 +20422,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[8]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[7]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[1]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20772,7 +20432,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[7]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[6]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20782,7 +20442,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[6]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[5]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[23]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20792,7 +20452,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[5]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[4]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[22]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20802,7 +20462,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[4]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[3]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[21]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20812,7 +20472,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[3]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[2]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[20]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20822,7 +20482,7 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[2]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[1]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[19]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -20832,7 +20492,347 @@ SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[1]")
 	PARENT = "";
 }
 
-SIGNAL("FPU_32b_vlg_vec_tst|i1|opb_i~combout[0]")
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[18]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[17]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[16]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[15]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[14]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[13]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[12]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[11]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[10]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[9]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[8]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[0]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[7]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[6]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[5]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[4]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[3]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[2]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[1]")
+{
+	VALUE_TYPE = NINE_LEVEL_BIT;
+	SIGNAL_TYPE = SINGLE_BIT;
+	WIDTH = 1;
+	LSB_INDEX = -1;
+	DIRECTION = INPUT;
+	PARENT = "";
+}
+
+SIGNAL("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[0]")
 {
 	VALUE_TYPE = NINE_LEVEL_BIT;
 	SIGNAL_TYPE = SINGLE_BIT;
@@ -37074,612 +37074,6 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|zero~0_combout")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[7]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[6]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[5]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[4]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[3]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[2]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[1]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[0]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[23]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[22]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[21]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[20]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[19]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[18]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[17]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[16]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[15]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[14]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[13]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[12]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[11]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[10]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[9]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[8]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[7]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[6]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[5]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[4]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[3]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[2]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[1]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[0]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[23]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[22]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[21]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[20]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[19]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[18]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[17]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[16]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[15]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[14]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[13]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[12]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[11]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[10]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[9]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[8]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[7]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[6]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[5]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[4]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[3]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[2]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[1]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[0]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[7]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[6]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[5]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[4]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[3]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[2]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 150.0;
-		LEVEL 1 FOR 10.0;
-		LEVEL 0 FOR 90.0;
-		LEVEL 1 FOR 750.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[1]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[0]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
 TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[27]")
 {
 	NODE
@@ -39791,7 +39185,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_pack|result[0]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|mode_i~combout[1]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[31]")
 {
 	NODE
 	{
@@ -39800,7 +39194,277 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|mode_i~combout[1]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|mode_i~combout[0]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[30]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 1 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[29]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[28]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[27]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[26]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[25]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 1 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[24]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[23]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[22]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[21]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[20]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[19]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[18]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[17]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 1 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[16]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[15]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[14]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[13]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[12]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[11]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[10]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[9]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[8]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[0]")
 {
 	NODE
 	{
@@ -40097,7 +39761,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opa_i~combout[0]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[31]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|mode_i~combout[1]")
 {
 	NODE
 	{
@@ -40106,16 +39770,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[31]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[30]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[29]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|mode_i~combout[0]")
 {
 	NODE
 	{
@@ -40124,7 +39779,31 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[29]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[28]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[23]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[22]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[21]")
 {
 	NODE
 	{
@@ -40133,7 +39812,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[28]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[27]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[20]")
 {
 	NODE
 	{
@@ -40142,7 +39821,19 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[27]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[26]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[19]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[18]")
 {
 	NODE
 	{
@@ -40151,25 +39842,19 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[26]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[25]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[17]")
 {
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[24]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[23]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[16]")
 {
 	NODE
 	{
@@ -40178,7 +39863,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[23]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[22]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[15]")
 {
 	NODE
 	{
@@ -40187,7 +39872,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[22]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[21]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[14]")
 {
 	NODE
 	{
@@ -40196,7 +39881,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[21]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[20]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[13]")
 {
 	NODE
 	{
@@ -40205,7 +39890,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[20]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[19]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[12]")
 {
 	NODE
 	{
@@ -40214,7 +39899,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[19]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[18]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[11]")
 {
 	NODE
 	{
@@ -40223,16 +39908,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[18]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[17]")
-{
-	NODE
-	{
-		REPEAT = 1;
-		LEVEL 1 FOR 1000.0;
-	}
-}
-
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[16]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[10]")
 {
 	NODE
 	{
@@ -40241,7 +39917,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[16]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[15]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[9]")
 {
 	NODE
 	{
@@ -40250,7 +39926,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[15]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[14]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[8]")
 {
 	NODE
 	{
@@ -40259,7 +39935,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[14]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[13]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[7]")
 {
 	NODE
 	{
@@ -40268,7 +39944,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[13]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[12]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[6]")
 {
 	NODE
 	{
@@ -40277,7 +39953,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[12]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[11]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[5]")
 {
 	NODE
 	{
@@ -40286,7 +39962,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[11]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[10]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[4]")
 {
 	NODE
 	{
@@ -40295,7 +39971,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[10]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[9]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[3]")
 {
 	NODE
 	{
@@ -40304,7 +39980,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[9]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[8]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[2]")
 {
 	NODE
 	{
@@ -40313,7 +39989,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[8]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[7]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[1]")
 {
 	NODE
 	{
@@ -40322,7 +39998,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[7]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[6]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[0]")
 {
 	NODE
 	{
@@ -40331,7 +40007,19 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[6]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[5]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[23]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[22]")
 {
 	NODE
 	{
@@ -40340,7 +40028,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[5]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[4]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[21]")
 {
 	NODE
 	{
@@ -40349,7 +40037,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[4]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[3]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[20]")
 {
 	NODE
 	{
@@ -40358,7 +40046,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[3]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[2]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[19]")
 {
 	NODE
 	{
@@ -40367,7 +40055,7 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[2]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[1]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[18]")
 {
 	NODE
 	{
@@ -40376,7 +40064,319 @@ TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[1]")
 	}
 }
 
-TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|opb_i~combout[0]")
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[17]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[16]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[15]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[14]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[13]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[12]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[11]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[10]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[9]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[8]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[0]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[7]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[6]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[5]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[4]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[3]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[2]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 1000.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[1]")
+{
+	NODE
+	{
+		REPEAT = 1;
+		LEVEL 0 FOR 150.0;
+		LEVEL 1 FOR 10.0;
+		LEVEL 0 FOR 90.0;
+		LEVEL 1 FOR 750.0;
+	}
+}
+
+TRANSITION_LIST("FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[0]")
 {
 	NODE
 	{
@@ -56017,7 +56017,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[27]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1729;
@@ -56026,7 +56026,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[26]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1730;
@@ -56035,7 +56035,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[25]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1731;
@@ -56044,7 +56044,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[24]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1732;
@@ -56053,7 +56053,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1733;
@@ -56062,7 +56062,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1734;
@@ -56071,7 +56071,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1735;
@@ -56080,7 +56080,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1736;
@@ -56089,7 +56089,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1737;
@@ -56098,7 +56098,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1738;
@@ -56107,7 +56107,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1739;
@@ -56116,7 +56116,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1740;
@@ -56125,7 +56125,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1741;
@@ -56134,7 +56134,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1742;
@@ -56143,7 +56143,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1743;
@@ -56152,7 +56152,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1744;
@@ -56161,7 +56161,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1745;
@@ -56170,7 +56170,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1746;
@@ -56179,7 +56179,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1747;
@@ -56188,7 +56188,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1748;
@@ -56197,7 +56197,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1749;
@@ -56206,7 +56206,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1750;
@@ -56215,7 +56215,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1751;
@@ -56224,7 +56224,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1752;
@@ -56233,7 +56233,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1753;
@@ -56242,7 +56242,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1754;
@@ -56251,7 +56251,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1755;
@@ -56260,7 +56260,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1756;
@@ -56269,7 +56269,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[27]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1757;
@@ -56278,7 +56278,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[26]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1758;
@@ -56287,7 +56287,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[25]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1759;
@@ -56296,7 +56296,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[24]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1760;
@@ -56305,7 +56305,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1761;
@@ -56314,7 +56314,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1762;
@@ -56323,7 +56323,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1763;
@@ -56332,7 +56332,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1764;
@@ -56341,7 +56341,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1765;
@@ -56350,7 +56350,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1766;
@@ -56359,7 +56359,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1767;
@@ -56368,7 +56368,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1768;
@@ -56377,7 +56377,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1769;
@@ -56386,7 +56386,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1770;
@@ -56395,7 +56395,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1771;
@@ -56404,7 +56404,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1772;
@@ -56413,7 +56413,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1773;
@@ -56422,7 +56422,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1774;
@@ -56431,7 +56431,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1775;
@@ -56440,7 +56440,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1776;
@@ -56449,7 +56449,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1777;
@@ -56458,7 +56458,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1778;
@@ -56467,7 +56467,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1779;
@@ -56476,7 +56476,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1780;
@@ -56485,7 +56485,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1781;
@@ -56494,7 +56494,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1782;
@@ -56503,7 +56503,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1783;
@@ -56512,7 +56512,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1784;
@@ -56521,7 +56521,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[27]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1785;
@@ -56530,7 +56530,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[26]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1786;
@@ -56539,7 +56539,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[25]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1787;
@@ -56548,7 +56548,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[24]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1788;
@@ -56557,7 +56557,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1789;
@@ -56566,7 +56566,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1790;
@@ -56575,7 +56575,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1791;
@@ -56584,7 +56584,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1792;
@@ -56593,7 +56593,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[27]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1793;
@@ -56602,7 +56602,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[26]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1794;
@@ -56611,7 +56611,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[25]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1795;
@@ -56620,7 +56620,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[24]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1796;
@@ -56629,7 +56629,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1797;
@@ -56638,7 +56638,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1798;
@@ -56647,7 +56647,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1799;
@@ -56656,7 +56656,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1800;
@@ -56665,7 +56665,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1801;
@@ -56674,7 +56674,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1802;
@@ -56683,7 +56683,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1803;
@@ -56692,7 +56692,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1804;
@@ -56701,7 +56701,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1805;
@@ -56710,7 +56710,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1806;
@@ -56719,7 +56719,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1807;
@@ -56728,7 +56728,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1808;
@@ -56737,7 +56737,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1809;
@@ -56746,7 +56746,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1810;
@@ -56755,7 +56755,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1811;
@@ -56764,7 +56764,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1812;
@@ -56773,7 +56773,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1813;
@@ -56782,7 +56782,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1814;
@@ -56791,7 +56791,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1815;
@@ -56800,7 +56800,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1816;
@@ -56809,7 +56809,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1817;
@@ -56818,7 +56818,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1818;
@@ -56827,7 +56827,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1819;
@@ -56836,7 +56836,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_addsub|mantisa_raw[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1820;
@@ -56845,7 +56845,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[27]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[26]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1821;
@@ -56854,7 +56854,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[26]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[25]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1822;
@@ -56863,7 +56863,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[25]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[24]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1823;
@@ -56872,7 +56872,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[24]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1824;
@@ -56881,7 +56881,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1825;
@@ -56890,7 +56890,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1826;
@@ -56899,7 +56899,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1827;
@@ -56908,7 +56908,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1828;
@@ -56917,7 +56917,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1829;
@@ -56926,7 +56926,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1830;
@@ -56935,7 +56935,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1831;
@@ -56944,7 +56944,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1832;
@@ -56953,7 +56953,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1833;
@@ -56962,7 +56962,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1834;
@@ -56971,7 +56971,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1835;
@@ -56980,7 +56980,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1836;
@@ -56989,7 +56989,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1837;
@@ -56998,7 +56998,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1838;
@@ -57007,7 +57007,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1839;
@@ -57016,7 +57016,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1840;
@@ -57025,7 +57025,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1841;
@@ -57034,7 +57034,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1842;
@@ -57043,7 +57043,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1843;
@@ -57052,7 +57052,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1844;
@@ -57061,7 +57061,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1845;
@@ -57070,7 +57070,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1846;
@@ -57079,7 +57079,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1847;
@@ -57088,7 +57088,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantB_aligned[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1848;
@@ -57097,7 +57097,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[27]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1849;
@@ -57106,7 +57106,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[26]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1850;
@@ -57115,7 +57115,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[25]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1851;
@@ -57124,7 +57124,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[24]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1852;
@@ -57133,7 +57133,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1853;
@@ -57142,7 +57142,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1854;
@@ -57151,7 +57151,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1855;
@@ -57160,7 +57160,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1856;
@@ -57169,7 +57169,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1857;
@@ -57178,7 +57178,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1858;
@@ -57187,7 +57187,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1859;
@@ -57196,7 +57196,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1860;
@@ -57205,7 +57205,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1861;
@@ -57214,7 +57214,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1862;
@@ -57223,7 +57223,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1863;
@@ -57232,7 +57232,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1864;
@@ -57241,7 +57241,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1865;
@@ -57250,7 +57250,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1866;
@@ -57259,7 +57259,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1867;
@@ -57268,7 +57268,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1868;
@@ -57277,7 +57277,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1869;
@@ -57286,7 +57286,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1870;
@@ -57295,7 +57295,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1871;
@@ -57304,7 +57304,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1872;
@@ -57313,7 +57313,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1873;
@@ -57322,7 +57322,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1874;
@@ -57331,7 +57331,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1875;
@@ -57340,7 +57340,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|mantA_aligned[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1876;
@@ -57349,7 +57349,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1877;
@@ -57358,7 +57358,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1878;
@@ -57367,7 +57367,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1879;
@@ -57376,7 +57376,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1880;
@@ -57385,7 +57385,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1881;
@@ -57394,7 +57394,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1882;
@@ -57403,7 +57403,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1883;
@@ -57412,7 +57412,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pre_norm|exp_common[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1884;
@@ -57421,7 +57421,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[26]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1885;
@@ -57430,7 +57430,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[25]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1886;
@@ -57439,7 +57439,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[24]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1887;
@@ -57448,7 +57448,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1888;
@@ -57457,7 +57457,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1889;
@@ -57466,7 +57466,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1890;
@@ -57475,7 +57475,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1891;
@@ -57484,7 +57484,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1892;
@@ -57493,7 +57493,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1893;
@@ -57502,7 +57502,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1894;
@@ -57511,7 +57511,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1895;
@@ -57520,7 +57520,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1896;
@@ -57529,7 +57529,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1897;
@@ -57538,7 +57538,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1898;
@@ -57547,7 +57547,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1899;
@@ -57556,7 +57556,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1900;
@@ -57565,7 +57565,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1901;
@@ -57574,7 +57574,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1902;
@@ -57583,7 +57583,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1903;
@@ -57592,7 +57592,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1904;
@@ -57601,7 +57601,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1905;
@@ -57610,7 +57610,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1906;
@@ -57619,7 +57619,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1907;
@@ -57628,7 +57628,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1908;
@@ -57637,7 +57637,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1909;
@@ -57646,7 +57646,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1910;
@@ -57655,7 +57655,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|mantisa_norm[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1911;
@@ -57664,7 +57664,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1912;
@@ -57673,7 +57673,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1913;
@@ -57682,7 +57682,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1914;
@@ -57691,7 +57691,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1915;
@@ -57700,7 +57700,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1916;
@@ -57709,7 +57709,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1917;
@@ -57718,7 +57718,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1918;
@@ -57727,7 +57727,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_normalize|exp_norm[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[31]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1919;
@@ -57736,7 +57736,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[30]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1920;
@@ -57745,7 +57745,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[29]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1921;
@@ -57754,7 +57754,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[28]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1922;
@@ -57763,7 +57763,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[27]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1923;
@@ -57772,7 +57772,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[26]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1924;
@@ -57781,7 +57781,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[25]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1925;
@@ -57790,7 +57790,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[24]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1926;
@@ -57799,7 +57799,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1927;
@@ -57808,7 +57808,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1928;
@@ -57817,7 +57817,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1929;
@@ -57826,7 +57826,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1930;
@@ -57835,7 +57835,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1931;
@@ -57844,7 +57844,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1932;
@@ -57853,7 +57853,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1933;
@@ -57862,7 +57862,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1934;
@@ -57871,7 +57871,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1935;
@@ -57880,7 +57880,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1936;
@@ -57889,7 +57889,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1937;
@@ -57898,7 +57898,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1938;
@@ -57907,7 +57907,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1939;
@@ -57916,7 +57916,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1940;
@@ -57925,7 +57925,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1941;
@@ -57934,7 +57934,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mantisa_round[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1942;
@@ -57943,7 +57943,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1943;
@@ -57952,7 +57952,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1944;
@@ -57961,7 +57961,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1945;
@@ -57970,7 +57970,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1946;
@@ -57979,7 +57979,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1947;
@@ -57988,7 +57988,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1948;
@@ -57997,7 +57997,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1949;
@@ -58006,7 +58006,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1950;
@@ -58015,7 +58015,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[31]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1951;
@@ -58024,7 +58024,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[30]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1952;
@@ -58033,7 +58033,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[29]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1953;
@@ -58042,7 +58042,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[28]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1954;
@@ -58051,7 +58051,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[27]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1955;
@@ -58060,7 +58060,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[26]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1956;
@@ -58069,7 +58069,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[25]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1957;
@@ -58078,7 +58078,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[24]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1958;
@@ -58087,7 +58087,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1959;
@@ -58096,7 +58096,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1960;
@@ -58105,7 +58105,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1961;
@@ -58114,7 +58114,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1962;
@@ -58123,7 +58123,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1963;
@@ -58132,7 +58132,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1964;
@@ -58141,7 +58141,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1965;
@@ -58150,7 +58150,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|mant_temp[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1966;
@@ -58159,7 +58159,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1967;
@@ -58168,7 +58168,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1968;
@@ -58177,7 +58177,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1969;
@@ -58186,7 +58186,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1970;
@@ -58195,7 +58195,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1971;
@@ -58204,7 +58204,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1972;
@@ -58213,7 +58213,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1973;
@@ -58222,7 +58222,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_temp[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1974;
@@ -58231,7 +58231,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1975;
@@ -58240,7 +58240,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1976;
@@ -58249,7 +58249,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1977;
@@ -58258,7 +58258,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1978;
@@ -58267,7 +58267,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1979;
@@ -58276,7 +58276,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1980;
@@ -58285,7 +58285,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1981;
@@ -58294,7 +58294,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_rounding|exp_round[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1982;
@@ -58303,7 +58303,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[31]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[31]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1983;
@@ -58312,7 +58312,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[30]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[30]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1984;
@@ -58321,7 +58321,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[29]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[29]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1985;
@@ -58330,7 +58330,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[28]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[28]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1986;
@@ -58339,7 +58339,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[27]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[27]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1987;
@@ -58348,7 +58348,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[26]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[26]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1988;
@@ -58357,7 +58357,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[25]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[25]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1989;
@@ -58366,7 +58366,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[24]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[24]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1990;
@@ -58375,7 +58375,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1991;
@@ -58384,7 +58384,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1992;
@@ -58393,7 +58393,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1993;
@@ -58402,7 +58402,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1994;
@@ -58411,7 +58411,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1995;
@@ -58420,7 +58420,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1996;
@@ -58429,7 +58429,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1997;
@@ -58438,7 +58438,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1998;
@@ -58447,7 +58447,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 1999;
@@ -58456,7 +58456,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2000;
@@ -58465,7 +58465,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2001;
@@ -58474,7 +58474,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2002;
@@ -58483,7 +58483,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2003;
@@ -58492,7 +58492,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2004;
@@ -58501,7 +58501,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2005;
@@ -58510,7 +58510,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2006;
@@ -58519,7 +58519,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2007;
@@ -58528,7 +58528,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2008;
@@ -58537,7 +58537,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2009;
@@ -58546,7 +58546,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2010;
@@ -58555,7 +58555,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2011;
@@ -58564,7 +58564,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2012;
@@ -58573,7 +58573,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2013;
@@ -58582,7 +58582,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_pack|result[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2014;
@@ -58609,7 +58609,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[31]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2017;
@@ -58618,7 +58618,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[30]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2018;
@@ -58627,7 +58627,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[29]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2019;
@@ -58636,7 +58636,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[28]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2020;
@@ -58645,7 +58645,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[27]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2021;
@@ -58654,7 +58654,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[26]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2022;
@@ -58663,7 +58663,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[25]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2023;
@@ -58672,7 +58672,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[24]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2024;
@@ -58681,7 +58681,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2025;
@@ -58690,7 +58690,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2026;
@@ -58699,7 +58699,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2027;
@@ -58708,7 +58708,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2028;
@@ -58717,7 +58717,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2029;
@@ -58726,7 +58726,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2030;
@@ -58735,7 +58735,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2031;
@@ -58744,7 +58744,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2032;
@@ -58753,7 +58753,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2033;
@@ -58762,7 +58762,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2034;
@@ -58771,7 +58771,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2035;
@@ -58780,7 +58780,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2036;
@@ -58789,7 +58789,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2037;
@@ -58798,7 +58798,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2038;
@@ -58807,7 +58807,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2039;
@@ -58816,7 +58816,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantA_o[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2040;
@@ -58825,7 +58825,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[23]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2041;
@@ -58834,7 +58834,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[22]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2042;
@@ -58843,7 +58843,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[21]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2043;
@@ -58852,7 +58852,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[20]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2044;
@@ -58861,7 +58861,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[19]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2045;
@@ -58870,7 +58870,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[18]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2046;
@@ -58879,7 +58879,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[17]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2047;
@@ -58888,7 +58888,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opa_i~combout[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[16]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2048;
@@ -58897,7 +58897,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[31]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[15]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2049;
@@ -58906,7 +58906,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[30]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[14]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2050;
@@ -58915,7 +58915,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[29]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[13]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2051;
@@ -58924,7 +58924,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[28]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[12]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2052;
@@ -58933,7 +58933,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[27]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[11]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2053;
@@ -58942,7 +58942,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[26]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[10]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2054;
@@ -58951,7 +58951,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[25]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[9]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2055;
@@ -58960,7 +58960,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[24]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[8]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2056;
@@ -58969,7 +58969,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[23]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2057;
@@ -58978,7 +58978,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[22]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2058;
@@ -58987,7 +58987,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[21]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2059;
@@ -58996,7 +58996,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[20]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2060;
@@ -59005,7 +59005,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[19]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2061;
@@ -59014,7 +59014,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[18]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2062;
@@ -59023,7 +59023,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[17]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2063;
@@ -59032,7 +59032,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[16]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|mantB_o[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2064;
@@ -59041,7 +59041,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[15]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2065;
@@ -59050,7 +59050,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[14]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2066;
@@ -59059,7 +59059,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[13]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2067;
@@ -59068,7 +59068,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[12]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2068;
@@ -59077,7 +59077,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[11]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2069;
@@ -59086,7 +59086,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[10]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2070;
@@ -59095,7 +59095,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[9]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2071;
@@ -59104,7 +59104,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[8]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expB_o[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2072;
@@ -59113,7 +59113,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[7]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[7]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2073;
@@ -59122,7 +59122,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[6]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[6]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2074;
@@ -59131,7 +59131,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[5]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[5]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2075;
@@ -59140,7 +59140,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[4]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[4]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2076;
@@ -59149,7 +59149,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[3]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[3]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2077;
@@ -59158,7 +59158,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[2]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[2]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2078;
@@ -59167,7 +59167,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[1]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[1]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2079;
@@ -59176,7 +59176,7 @@ DISPLAY_LINE
 
 DISPLAY_LINE
 {
-	CHANNEL = "FPU_32b_vlg_vec_tst|i1|opb_i~combout[0]";
+	CHANNEL = "FPU_32b_vlg_vec_tst|i1|u_unpack|expA_o[0]";
 	EXPAND_STATUS = COLLAPSED;
 	RADIX = Binary;
 	TREE_INDEX = 2080;

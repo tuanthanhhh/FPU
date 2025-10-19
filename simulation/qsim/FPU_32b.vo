@@ -13,10 +13,10 @@
 // applicable agreement for further details.
 
 // VENDOR "Altera"
-// PROGRAM "Quartus II 32-bit"
+// PROGRAM "Quartus II 64-Bit"
 // VERSION "Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition"
 
-// DATE "10/18/2025 20:37:19"
+// DATE "10/19/2025 10:21:45"
 
 // 
 // Device: Altera EP2C35F672C6 Package FBGA672
@@ -1787,10 +1787,6 @@ wire \Equal2~5_combout ;
 wire \Equal2~6_combout ;
 wire \inf~0_combout ;
 wire \zero~0_combout ;
-wire [7:0] \u_unpack|expA_o ;
-wire [23:0] \u_unpack|mantB_o ;
-wire [23:0] \u_unpack|mantA_o ;
-wire [7:0] \u_unpack|expB_o ;
 wire [27:0] \u_addsub|mantisa_raw ;
 wire [27:0] \u_pre_norm|mantB_aligned ;
 wire [27:0] \u_pre_norm|mantA_aligned ;
@@ -1802,9 +1798,13 @@ wire [23:0] \u_rounding|mant_temp ;
 wire [7:0] \u_rounding|exp_temp ;
 wire [7:0] \u_rounding|exp_round ;
 wire [31:0] \u_pack|result ;
-wire [1:0] \mode_i~combout ;
-wire [31:0] \opa_i~combout ;
 wire [31:0] \opb_i~combout ;
+wire [31:0] \opa_i~combout ;
+wire [1:0] \mode_i~combout ;
+wire [23:0] \u_unpack|mantA_o ;
+wire [23:0] \u_unpack|mantB_o ;
+wire [7:0] \u_unpack|expB_o ;
+wire [7:0] \u_unpack|expA_o ;
 
 
 // Location: LCFF_X31_Y25_N7

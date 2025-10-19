@@ -7,10 +7,10 @@ module Add_Sub_mantisa(
 	input signB,
 	input operation,
 	 
-	output reg [27:0] mantisa_raw,
+	output reg [27:0] ,
 	output reg sign_result
 );
-	wire [27:0] mant_sum;
+	wire [27:0] mant_sum;mantisa_raw
 	wire [27:0] mant_diff;
 	wire Is_mantA_bigger;
 	wire effective_sub;

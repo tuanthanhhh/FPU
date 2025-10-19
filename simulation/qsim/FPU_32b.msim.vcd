@@ -3,7 +3,7 @@ $comment
 		vcd file FPU_32b.msim.vcd -direction
 $end
 $date
-	Sat Oct 18 20:37:21 2025
+	Sun Oct 19 10:21:48 2025
 $end
 $version
 	ModelSim Version 10.1d
@@ -1676,358 +1676,358 @@ $var wire 1 ^1 Equal2~5_combout $end
 $var wire 1 _1 Equal2~6_combout $end
 $var wire 1 `1 inf~0_combout $end
 $var wire 1 a1 zero~0_combout $end
-$var wire 1 b1 u_unpack|expA_o [7] $end
-$var wire 1 c1 u_unpack|expA_o [6] $end
-$var wire 1 d1 u_unpack|expA_o [5] $end
-$var wire 1 e1 u_unpack|expA_o [4] $end
-$var wire 1 f1 u_unpack|expA_o [3] $end
-$var wire 1 g1 u_unpack|expA_o [2] $end
-$var wire 1 h1 u_unpack|expA_o [1] $end
-$var wire 1 i1 u_unpack|expA_o [0] $end
-$var wire 1 j1 u_unpack|mantB_o [23] $end
-$var wire 1 k1 u_unpack|mantB_o [22] $end
-$var wire 1 l1 u_unpack|mantB_o [21] $end
-$var wire 1 m1 u_unpack|mantB_o [20] $end
-$var wire 1 n1 u_unpack|mantB_o [19] $end
-$var wire 1 o1 u_unpack|mantB_o [18] $end
-$var wire 1 p1 u_unpack|mantB_o [17] $end
-$var wire 1 q1 u_unpack|mantB_o [16] $end
-$var wire 1 r1 u_unpack|mantB_o [15] $end
-$var wire 1 s1 u_unpack|mantB_o [14] $end
-$var wire 1 t1 u_unpack|mantB_o [13] $end
-$var wire 1 u1 u_unpack|mantB_o [12] $end
-$var wire 1 v1 u_unpack|mantB_o [11] $end
-$var wire 1 w1 u_unpack|mantB_o [10] $end
-$var wire 1 x1 u_unpack|mantB_o [9] $end
-$var wire 1 y1 u_unpack|mantB_o [8] $end
-$var wire 1 z1 u_unpack|mantB_o [7] $end
-$var wire 1 {1 u_unpack|mantB_o [6] $end
-$var wire 1 |1 u_unpack|mantB_o [5] $end
-$var wire 1 }1 u_unpack|mantB_o [4] $end
-$var wire 1 ~1 u_unpack|mantB_o [3] $end
-$var wire 1 !2 u_unpack|mantB_o [2] $end
-$var wire 1 "2 u_unpack|mantB_o [1] $end
-$var wire 1 #2 u_unpack|mantB_o [0] $end
-$var wire 1 $2 u_unpack|mantA_o [23] $end
-$var wire 1 %2 u_unpack|mantA_o [22] $end
-$var wire 1 &2 u_unpack|mantA_o [21] $end
-$var wire 1 '2 u_unpack|mantA_o [20] $end
-$var wire 1 (2 u_unpack|mantA_o [19] $end
-$var wire 1 )2 u_unpack|mantA_o [18] $end
-$var wire 1 *2 u_unpack|mantA_o [17] $end
-$var wire 1 +2 u_unpack|mantA_o [16] $end
-$var wire 1 ,2 u_unpack|mantA_o [15] $end
-$var wire 1 -2 u_unpack|mantA_o [14] $end
-$var wire 1 .2 u_unpack|mantA_o [13] $end
-$var wire 1 /2 u_unpack|mantA_o [12] $end
-$var wire 1 02 u_unpack|mantA_o [11] $end
-$var wire 1 12 u_unpack|mantA_o [10] $end
-$var wire 1 22 u_unpack|mantA_o [9] $end
-$var wire 1 32 u_unpack|mantA_o [8] $end
-$var wire 1 42 u_unpack|mantA_o [7] $end
-$var wire 1 52 u_unpack|mantA_o [6] $end
-$var wire 1 62 u_unpack|mantA_o [5] $end
-$var wire 1 72 u_unpack|mantA_o [4] $end
-$var wire 1 82 u_unpack|mantA_o [3] $end
-$var wire 1 92 u_unpack|mantA_o [2] $end
-$var wire 1 :2 u_unpack|mantA_o [1] $end
-$var wire 1 ;2 u_unpack|mantA_o [0] $end
-$var wire 1 <2 u_unpack|expB_o [7] $end
-$var wire 1 =2 u_unpack|expB_o [6] $end
-$var wire 1 >2 u_unpack|expB_o [5] $end
-$var wire 1 ?2 u_unpack|expB_o [4] $end
-$var wire 1 @2 u_unpack|expB_o [3] $end
-$var wire 1 A2 u_unpack|expB_o [2] $end
-$var wire 1 B2 u_unpack|expB_o [1] $end
-$var wire 1 C2 u_unpack|expB_o [0] $end
-$var wire 1 D2 u_addsub|mantisa_raw [27] $end
-$var wire 1 E2 u_addsub|mantisa_raw [26] $end
-$var wire 1 F2 u_addsub|mantisa_raw [25] $end
-$var wire 1 G2 u_addsub|mantisa_raw [24] $end
-$var wire 1 H2 u_addsub|mantisa_raw [23] $end
-$var wire 1 I2 u_addsub|mantisa_raw [22] $end
-$var wire 1 J2 u_addsub|mantisa_raw [21] $end
-$var wire 1 K2 u_addsub|mantisa_raw [20] $end
-$var wire 1 L2 u_addsub|mantisa_raw [19] $end
-$var wire 1 M2 u_addsub|mantisa_raw [18] $end
-$var wire 1 N2 u_addsub|mantisa_raw [17] $end
-$var wire 1 O2 u_addsub|mantisa_raw [16] $end
-$var wire 1 P2 u_addsub|mantisa_raw [15] $end
-$var wire 1 Q2 u_addsub|mantisa_raw [14] $end
-$var wire 1 R2 u_addsub|mantisa_raw [13] $end
-$var wire 1 S2 u_addsub|mantisa_raw [12] $end
-$var wire 1 T2 u_addsub|mantisa_raw [11] $end
-$var wire 1 U2 u_addsub|mantisa_raw [10] $end
-$var wire 1 V2 u_addsub|mantisa_raw [9] $end
-$var wire 1 W2 u_addsub|mantisa_raw [8] $end
-$var wire 1 X2 u_addsub|mantisa_raw [7] $end
-$var wire 1 Y2 u_addsub|mantisa_raw [6] $end
-$var wire 1 Z2 u_addsub|mantisa_raw [5] $end
-$var wire 1 [2 u_addsub|mantisa_raw [4] $end
-$var wire 1 \2 u_addsub|mantisa_raw [3] $end
-$var wire 1 ]2 u_addsub|mantisa_raw [2] $end
-$var wire 1 ^2 u_addsub|mantisa_raw [1] $end
-$var wire 1 _2 u_addsub|mantisa_raw [0] $end
-$var wire 1 `2 u_pre_norm|mantB_aligned [27] $end
-$var wire 1 a2 u_pre_norm|mantB_aligned [26] $end
-$var wire 1 b2 u_pre_norm|mantB_aligned [25] $end
-$var wire 1 c2 u_pre_norm|mantB_aligned [24] $end
-$var wire 1 d2 u_pre_norm|mantB_aligned [23] $end
-$var wire 1 e2 u_pre_norm|mantB_aligned [22] $end
-$var wire 1 f2 u_pre_norm|mantB_aligned [21] $end
-$var wire 1 g2 u_pre_norm|mantB_aligned [20] $end
-$var wire 1 h2 u_pre_norm|mantB_aligned [19] $end
-$var wire 1 i2 u_pre_norm|mantB_aligned [18] $end
-$var wire 1 j2 u_pre_norm|mantB_aligned [17] $end
-$var wire 1 k2 u_pre_norm|mantB_aligned [16] $end
-$var wire 1 l2 u_pre_norm|mantB_aligned [15] $end
-$var wire 1 m2 u_pre_norm|mantB_aligned [14] $end
-$var wire 1 n2 u_pre_norm|mantB_aligned [13] $end
-$var wire 1 o2 u_pre_norm|mantB_aligned [12] $end
-$var wire 1 p2 u_pre_norm|mantB_aligned [11] $end
-$var wire 1 q2 u_pre_norm|mantB_aligned [10] $end
-$var wire 1 r2 u_pre_norm|mantB_aligned [9] $end
-$var wire 1 s2 u_pre_norm|mantB_aligned [8] $end
-$var wire 1 t2 u_pre_norm|mantB_aligned [7] $end
-$var wire 1 u2 u_pre_norm|mantB_aligned [6] $end
-$var wire 1 v2 u_pre_norm|mantB_aligned [5] $end
-$var wire 1 w2 u_pre_norm|mantB_aligned [4] $end
-$var wire 1 x2 u_pre_norm|mantB_aligned [3] $end
-$var wire 1 y2 u_pre_norm|mantB_aligned [2] $end
-$var wire 1 z2 u_pre_norm|mantB_aligned [1] $end
-$var wire 1 {2 u_pre_norm|mantB_aligned [0] $end
-$var wire 1 |2 u_pre_norm|mantA_aligned [27] $end
-$var wire 1 }2 u_pre_norm|mantA_aligned [26] $end
-$var wire 1 ~2 u_pre_norm|mantA_aligned [25] $end
-$var wire 1 !3 u_pre_norm|mantA_aligned [24] $end
-$var wire 1 "3 u_pre_norm|mantA_aligned [23] $end
-$var wire 1 #3 u_pre_norm|mantA_aligned [22] $end
-$var wire 1 $3 u_pre_norm|mantA_aligned [21] $end
-$var wire 1 %3 u_pre_norm|mantA_aligned [20] $end
-$var wire 1 &3 u_pre_norm|mantA_aligned [19] $end
-$var wire 1 '3 u_pre_norm|mantA_aligned [18] $end
-$var wire 1 (3 u_pre_norm|mantA_aligned [17] $end
-$var wire 1 )3 u_pre_norm|mantA_aligned [16] $end
-$var wire 1 *3 u_pre_norm|mantA_aligned [15] $end
-$var wire 1 +3 u_pre_norm|mantA_aligned [14] $end
-$var wire 1 ,3 u_pre_norm|mantA_aligned [13] $end
-$var wire 1 -3 u_pre_norm|mantA_aligned [12] $end
-$var wire 1 .3 u_pre_norm|mantA_aligned [11] $end
-$var wire 1 /3 u_pre_norm|mantA_aligned [10] $end
-$var wire 1 03 u_pre_norm|mantA_aligned [9] $end
-$var wire 1 13 u_pre_norm|mantA_aligned [8] $end
-$var wire 1 23 u_pre_norm|mantA_aligned [7] $end
-$var wire 1 33 u_pre_norm|mantA_aligned [6] $end
-$var wire 1 43 u_pre_norm|mantA_aligned [5] $end
-$var wire 1 53 u_pre_norm|mantA_aligned [4] $end
-$var wire 1 63 u_pre_norm|mantA_aligned [3] $end
-$var wire 1 73 u_pre_norm|mantA_aligned [2] $end
-$var wire 1 83 u_pre_norm|mantA_aligned [1] $end
-$var wire 1 93 u_pre_norm|mantA_aligned [0] $end
-$var wire 1 :3 u_pre_norm|exp_common [7] $end
-$var wire 1 ;3 u_pre_norm|exp_common [6] $end
-$var wire 1 <3 u_pre_norm|exp_common [5] $end
-$var wire 1 =3 u_pre_norm|exp_common [4] $end
-$var wire 1 >3 u_pre_norm|exp_common [3] $end
-$var wire 1 ?3 u_pre_norm|exp_common [2] $end
-$var wire 1 @3 u_pre_norm|exp_common [1] $end
-$var wire 1 A3 u_pre_norm|exp_common [0] $end
-$var wire 1 B3 u_normalize|mantisa_norm [26] $end
-$var wire 1 C3 u_normalize|mantisa_norm [25] $end
-$var wire 1 D3 u_normalize|mantisa_norm [24] $end
-$var wire 1 E3 u_normalize|mantisa_norm [23] $end
-$var wire 1 F3 u_normalize|mantisa_norm [22] $end
-$var wire 1 G3 u_normalize|mantisa_norm [21] $end
-$var wire 1 H3 u_normalize|mantisa_norm [20] $end
-$var wire 1 I3 u_normalize|mantisa_norm [19] $end
-$var wire 1 J3 u_normalize|mantisa_norm [18] $end
-$var wire 1 K3 u_normalize|mantisa_norm [17] $end
-$var wire 1 L3 u_normalize|mantisa_norm [16] $end
-$var wire 1 M3 u_normalize|mantisa_norm [15] $end
-$var wire 1 N3 u_normalize|mantisa_norm [14] $end
-$var wire 1 O3 u_normalize|mantisa_norm [13] $end
-$var wire 1 P3 u_normalize|mantisa_norm [12] $end
-$var wire 1 Q3 u_normalize|mantisa_norm [11] $end
-$var wire 1 R3 u_normalize|mantisa_norm [10] $end
-$var wire 1 S3 u_normalize|mantisa_norm [9] $end
-$var wire 1 T3 u_normalize|mantisa_norm [8] $end
-$var wire 1 U3 u_normalize|mantisa_norm [7] $end
-$var wire 1 V3 u_normalize|mantisa_norm [6] $end
-$var wire 1 W3 u_normalize|mantisa_norm [5] $end
-$var wire 1 X3 u_normalize|mantisa_norm [4] $end
-$var wire 1 Y3 u_normalize|mantisa_norm [3] $end
-$var wire 1 Z3 u_normalize|mantisa_norm [2] $end
-$var wire 1 [3 u_normalize|mantisa_norm [1] $end
-$var wire 1 \3 u_normalize|mantisa_norm [0] $end
-$var wire 1 ]3 u_normalize|exp_norm [7] $end
-$var wire 1 ^3 u_normalize|exp_norm [6] $end
-$var wire 1 _3 u_normalize|exp_norm [5] $end
-$var wire 1 `3 u_normalize|exp_norm [4] $end
-$var wire 1 a3 u_normalize|exp_norm [3] $end
-$var wire 1 b3 u_normalize|exp_norm [2] $end
-$var wire 1 c3 u_normalize|exp_norm [1] $end
-$var wire 1 d3 u_normalize|exp_norm [0] $end
-$var wire 1 e3 u_rounding|mantisa_round [22] $end
-$var wire 1 f3 u_rounding|mantisa_round [21] $end
-$var wire 1 g3 u_rounding|mantisa_round [20] $end
-$var wire 1 h3 u_rounding|mantisa_round [19] $end
-$var wire 1 i3 u_rounding|mantisa_round [18] $end
-$var wire 1 j3 u_rounding|mantisa_round [17] $end
-$var wire 1 k3 u_rounding|mantisa_round [16] $end
-$var wire 1 l3 u_rounding|mantisa_round [15] $end
-$var wire 1 m3 u_rounding|mantisa_round [14] $end
-$var wire 1 n3 u_rounding|mantisa_round [13] $end
-$var wire 1 o3 u_rounding|mantisa_round [12] $end
-$var wire 1 p3 u_rounding|mantisa_round [11] $end
-$var wire 1 q3 u_rounding|mantisa_round [10] $end
-$var wire 1 r3 u_rounding|mantisa_round [9] $end
-$var wire 1 s3 u_rounding|mantisa_round [8] $end
-$var wire 1 t3 u_rounding|mantisa_round [7] $end
-$var wire 1 u3 u_rounding|mantisa_round [6] $end
-$var wire 1 v3 u_rounding|mantisa_round [5] $end
-$var wire 1 w3 u_rounding|mantisa_round [4] $end
-$var wire 1 x3 u_rounding|mantisa_round [3] $end
-$var wire 1 y3 u_rounding|mantisa_round [2] $end
-$var wire 1 z3 u_rounding|mantisa_round [1] $end
-$var wire 1 {3 u_rounding|mantisa_round [0] $end
-$var wire 1 |3 u_rounding|mant_temp [23] $end
-$var wire 1 }3 u_rounding|mant_temp [22] $end
-$var wire 1 ~3 u_rounding|mant_temp [21] $end
-$var wire 1 !4 u_rounding|mant_temp [20] $end
-$var wire 1 "4 u_rounding|mant_temp [19] $end
-$var wire 1 #4 u_rounding|mant_temp [18] $end
-$var wire 1 $4 u_rounding|mant_temp [17] $end
-$var wire 1 %4 u_rounding|mant_temp [16] $end
-$var wire 1 &4 u_rounding|mant_temp [15] $end
-$var wire 1 '4 u_rounding|mant_temp [14] $end
-$var wire 1 (4 u_rounding|mant_temp [13] $end
-$var wire 1 )4 u_rounding|mant_temp [12] $end
-$var wire 1 *4 u_rounding|mant_temp [11] $end
-$var wire 1 +4 u_rounding|mant_temp [10] $end
-$var wire 1 ,4 u_rounding|mant_temp [9] $end
-$var wire 1 -4 u_rounding|mant_temp [8] $end
-$var wire 1 .4 u_rounding|mant_temp [7] $end
-$var wire 1 /4 u_rounding|mant_temp [6] $end
-$var wire 1 04 u_rounding|mant_temp [5] $end
-$var wire 1 14 u_rounding|mant_temp [4] $end
-$var wire 1 24 u_rounding|mant_temp [3] $end
-$var wire 1 34 u_rounding|mant_temp [2] $end
-$var wire 1 44 u_rounding|mant_temp [1] $end
-$var wire 1 54 u_rounding|mant_temp [0] $end
-$var wire 1 64 u_rounding|exp_temp [7] $end
-$var wire 1 74 u_rounding|exp_temp [6] $end
-$var wire 1 84 u_rounding|exp_temp [5] $end
-$var wire 1 94 u_rounding|exp_temp [4] $end
-$var wire 1 :4 u_rounding|exp_temp [3] $end
-$var wire 1 ;4 u_rounding|exp_temp [2] $end
-$var wire 1 <4 u_rounding|exp_temp [1] $end
-$var wire 1 =4 u_rounding|exp_temp [0] $end
-$var wire 1 >4 u_rounding|exp_round [7] $end
-$var wire 1 ?4 u_rounding|exp_round [6] $end
-$var wire 1 @4 u_rounding|exp_round [5] $end
-$var wire 1 A4 u_rounding|exp_round [4] $end
-$var wire 1 B4 u_rounding|exp_round [3] $end
-$var wire 1 C4 u_rounding|exp_round [2] $end
-$var wire 1 D4 u_rounding|exp_round [1] $end
-$var wire 1 E4 u_rounding|exp_round [0] $end
-$var wire 1 F4 u_pack|result [31] $end
-$var wire 1 G4 u_pack|result [30] $end
-$var wire 1 H4 u_pack|result [29] $end
-$var wire 1 I4 u_pack|result [28] $end
-$var wire 1 J4 u_pack|result [27] $end
-$var wire 1 K4 u_pack|result [26] $end
-$var wire 1 L4 u_pack|result [25] $end
-$var wire 1 M4 u_pack|result [24] $end
-$var wire 1 N4 u_pack|result [23] $end
-$var wire 1 O4 u_pack|result [22] $end
-$var wire 1 P4 u_pack|result [21] $end
-$var wire 1 Q4 u_pack|result [20] $end
-$var wire 1 R4 u_pack|result [19] $end
-$var wire 1 S4 u_pack|result [18] $end
-$var wire 1 T4 u_pack|result [17] $end
-$var wire 1 U4 u_pack|result [16] $end
-$var wire 1 V4 u_pack|result [15] $end
-$var wire 1 W4 u_pack|result [14] $end
-$var wire 1 X4 u_pack|result [13] $end
-$var wire 1 Y4 u_pack|result [12] $end
-$var wire 1 Z4 u_pack|result [11] $end
-$var wire 1 [4 u_pack|result [10] $end
-$var wire 1 \4 u_pack|result [9] $end
-$var wire 1 ]4 u_pack|result [8] $end
-$var wire 1 ^4 u_pack|result [7] $end
-$var wire 1 _4 u_pack|result [6] $end
-$var wire 1 `4 u_pack|result [5] $end
-$var wire 1 a4 u_pack|result [4] $end
-$var wire 1 b4 u_pack|result [3] $end
-$var wire 1 c4 u_pack|result [2] $end
-$var wire 1 d4 u_pack|result [1] $end
-$var wire 1 e4 u_pack|result [0] $end
+$var wire 1 b1 u_addsub|mantisa_raw [27] $end
+$var wire 1 c1 u_addsub|mantisa_raw [26] $end
+$var wire 1 d1 u_addsub|mantisa_raw [25] $end
+$var wire 1 e1 u_addsub|mantisa_raw [24] $end
+$var wire 1 f1 u_addsub|mantisa_raw [23] $end
+$var wire 1 g1 u_addsub|mantisa_raw [22] $end
+$var wire 1 h1 u_addsub|mantisa_raw [21] $end
+$var wire 1 i1 u_addsub|mantisa_raw [20] $end
+$var wire 1 j1 u_addsub|mantisa_raw [19] $end
+$var wire 1 k1 u_addsub|mantisa_raw [18] $end
+$var wire 1 l1 u_addsub|mantisa_raw [17] $end
+$var wire 1 m1 u_addsub|mantisa_raw [16] $end
+$var wire 1 n1 u_addsub|mantisa_raw [15] $end
+$var wire 1 o1 u_addsub|mantisa_raw [14] $end
+$var wire 1 p1 u_addsub|mantisa_raw [13] $end
+$var wire 1 q1 u_addsub|mantisa_raw [12] $end
+$var wire 1 r1 u_addsub|mantisa_raw [11] $end
+$var wire 1 s1 u_addsub|mantisa_raw [10] $end
+$var wire 1 t1 u_addsub|mantisa_raw [9] $end
+$var wire 1 u1 u_addsub|mantisa_raw [8] $end
+$var wire 1 v1 u_addsub|mantisa_raw [7] $end
+$var wire 1 w1 u_addsub|mantisa_raw [6] $end
+$var wire 1 x1 u_addsub|mantisa_raw [5] $end
+$var wire 1 y1 u_addsub|mantisa_raw [4] $end
+$var wire 1 z1 u_addsub|mantisa_raw [3] $end
+$var wire 1 {1 u_addsub|mantisa_raw [2] $end
+$var wire 1 |1 u_addsub|mantisa_raw [1] $end
+$var wire 1 }1 u_addsub|mantisa_raw [0] $end
+$var wire 1 ~1 u_pre_norm|mantB_aligned [27] $end
+$var wire 1 !2 u_pre_norm|mantB_aligned [26] $end
+$var wire 1 "2 u_pre_norm|mantB_aligned [25] $end
+$var wire 1 #2 u_pre_norm|mantB_aligned [24] $end
+$var wire 1 $2 u_pre_norm|mantB_aligned [23] $end
+$var wire 1 %2 u_pre_norm|mantB_aligned [22] $end
+$var wire 1 &2 u_pre_norm|mantB_aligned [21] $end
+$var wire 1 '2 u_pre_norm|mantB_aligned [20] $end
+$var wire 1 (2 u_pre_norm|mantB_aligned [19] $end
+$var wire 1 )2 u_pre_norm|mantB_aligned [18] $end
+$var wire 1 *2 u_pre_norm|mantB_aligned [17] $end
+$var wire 1 +2 u_pre_norm|mantB_aligned [16] $end
+$var wire 1 ,2 u_pre_norm|mantB_aligned [15] $end
+$var wire 1 -2 u_pre_norm|mantB_aligned [14] $end
+$var wire 1 .2 u_pre_norm|mantB_aligned [13] $end
+$var wire 1 /2 u_pre_norm|mantB_aligned [12] $end
+$var wire 1 02 u_pre_norm|mantB_aligned [11] $end
+$var wire 1 12 u_pre_norm|mantB_aligned [10] $end
+$var wire 1 22 u_pre_norm|mantB_aligned [9] $end
+$var wire 1 32 u_pre_norm|mantB_aligned [8] $end
+$var wire 1 42 u_pre_norm|mantB_aligned [7] $end
+$var wire 1 52 u_pre_norm|mantB_aligned [6] $end
+$var wire 1 62 u_pre_norm|mantB_aligned [5] $end
+$var wire 1 72 u_pre_norm|mantB_aligned [4] $end
+$var wire 1 82 u_pre_norm|mantB_aligned [3] $end
+$var wire 1 92 u_pre_norm|mantB_aligned [2] $end
+$var wire 1 :2 u_pre_norm|mantB_aligned [1] $end
+$var wire 1 ;2 u_pre_norm|mantB_aligned [0] $end
+$var wire 1 <2 u_pre_norm|mantA_aligned [27] $end
+$var wire 1 =2 u_pre_norm|mantA_aligned [26] $end
+$var wire 1 >2 u_pre_norm|mantA_aligned [25] $end
+$var wire 1 ?2 u_pre_norm|mantA_aligned [24] $end
+$var wire 1 @2 u_pre_norm|mantA_aligned [23] $end
+$var wire 1 A2 u_pre_norm|mantA_aligned [22] $end
+$var wire 1 B2 u_pre_norm|mantA_aligned [21] $end
+$var wire 1 C2 u_pre_norm|mantA_aligned [20] $end
+$var wire 1 D2 u_pre_norm|mantA_aligned [19] $end
+$var wire 1 E2 u_pre_norm|mantA_aligned [18] $end
+$var wire 1 F2 u_pre_norm|mantA_aligned [17] $end
+$var wire 1 G2 u_pre_norm|mantA_aligned [16] $end
+$var wire 1 H2 u_pre_norm|mantA_aligned [15] $end
+$var wire 1 I2 u_pre_norm|mantA_aligned [14] $end
+$var wire 1 J2 u_pre_norm|mantA_aligned [13] $end
+$var wire 1 K2 u_pre_norm|mantA_aligned [12] $end
+$var wire 1 L2 u_pre_norm|mantA_aligned [11] $end
+$var wire 1 M2 u_pre_norm|mantA_aligned [10] $end
+$var wire 1 N2 u_pre_norm|mantA_aligned [9] $end
+$var wire 1 O2 u_pre_norm|mantA_aligned [8] $end
+$var wire 1 P2 u_pre_norm|mantA_aligned [7] $end
+$var wire 1 Q2 u_pre_norm|mantA_aligned [6] $end
+$var wire 1 R2 u_pre_norm|mantA_aligned [5] $end
+$var wire 1 S2 u_pre_norm|mantA_aligned [4] $end
+$var wire 1 T2 u_pre_norm|mantA_aligned [3] $end
+$var wire 1 U2 u_pre_norm|mantA_aligned [2] $end
+$var wire 1 V2 u_pre_norm|mantA_aligned [1] $end
+$var wire 1 W2 u_pre_norm|mantA_aligned [0] $end
+$var wire 1 X2 u_pre_norm|exp_common [7] $end
+$var wire 1 Y2 u_pre_norm|exp_common [6] $end
+$var wire 1 Z2 u_pre_norm|exp_common [5] $end
+$var wire 1 [2 u_pre_norm|exp_common [4] $end
+$var wire 1 \2 u_pre_norm|exp_common [3] $end
+$var wire 1 ]2 u_pre_norm|exp_common [2] $end
+$var wire 1 ^2 u_pre_norm|exp_common [1] $end
+$var wire 1 _2 u_pre_norm|exp_common [0] $end
+$var wire 1 `2 u_normalize|mantisa_norm [26] $end
+$var wire 1 a2 u_normalize|mantisa_norm [25] $end
+$var wire 1 b2 u_normalize|mantisa_norm [24] $end
+$var wire 1 c2 u_normalize|mantisa_norm [23] $end
+$var wire 1 d2 u_normalize|mantisa_norm [22] $end
+$var wire 1 e2 u_normalize|mantisa_norm [21] $end
+$var wire 1 f2 u_normalize|mantisa_norm [20] $end
+$var wire 1 g2 u_normalize|mantisa_norm [19] $end
+$var wire 1 h2 u_normalize|mantisa_norm [18] $end
+$var wire 1 i2 u_normalize|mantisa_norm [17] $end
+$var wire 1 j2 u_normalize|mantisa_norm [16] $end
+$var wire 1 k2 u_normalize|mantisa_norm [15] $end
+$var wire 1 l2 u_normalize|mantisa_norm [14] $end
+$var wire 1 m2 u_normalize|mantisa_norm [13] $end
+$var wire 1 n2 u_normalize|mantisa_norm [12] $end
+$var wire 1 o2 u_normalize|mantisa_norm [11] $end
+$var wire 1 p2 u_normalize|mantisa_norm [10] $end
+$var wire 1 q2 u_normalize|mantisa_norm [9] $end
+$var wire 1 r2 u_normalize|mantisa_norm [8] $end
+$var wire 1 s2 u_normalize|mantisa_norm [7] $end
+$var wire 1 t2 u_normalize|mantisa_norm [6] $end
+$var wire 1 u2 u_normalize|mantisa_norm [5] $end
+$var wire 1 v2 u_normalize|mantisa_norm [4] $end
+$var wire 1 w2 u_normalize|mantisa_norm [3] $end
+$var wire 1 x2 u_normalize|mantisa_norm [2] $end
+$var wire 1 y2 u_normalize|mantisa_norm [1] $end
+$var wire 1 z2 u_normalize|mantisa_norm [0] $end
+$var wire 1 {2 u_normalize|exp_norm [7] $end
+$var wire 1 |2 u_normalize|exp_norm [6] $end
+$var wire 1 }2 u_normalize|exp_norm [5] $end
+$var wire 1 ~2 u_normalize|exp_norm [4] $end
+$var wire 1 !3 u_normalize|exp_norm [3] $end
+$var wire 1 "3 u_normalize|exp_norm [2] $end
+$var wire 1 #3 u_normalize|exp_norm [1] $end
+$var wire 1 $3 u_normalize|exp_norm [0] $end
+$var wire 1 %3 u_rounding|mantisa_round [22] $end
+$var wire 1 &3 u_rounding|mantisa_round [21] $end
+$var wire 1 '3 u_rounding|mantisa_round [20] $end
+$var wire 1 (3 u_rounding|mantisa_round [19] $end
+$var wire 1 )3 u_rounding|mantisa_round [18] $end
+$var wire 1 *3 u_rounding|mantisa_round [17] $end
+$var wire 1 +3 u_rounding|mantisa_round [16] $end
+$var wire 1 ,3 u_rounding|mantisa_round [15] $end
+$var wire 1 -3 u_rounding|mantisa_round [14] $end
+$var wire 1 .3 u_rounding|mantisa_round [13] $end
+$var wire 1 /3 u_rounding|mantisa_round [12] $end
+$var wire 1 03 u_rounding|mantisa_round [11] $end
+$var wire 1 13 u_rounding|mantisa_round [10] $end
+$var wire 1 23 u_rounding|mantisa_round [9] $end
+$var wire 1 33 u_rounding|mantisa_round [8] $end
+$var wire 1 43 u_rounding|mantisa_round [7] $end
+$var wire 1 53 u_rounding|mantisa_round [6] $end
+$var wire 1 63 u_rounding|mantisa_round [5] $end
+$var wire 1 73 u_rounding|mantisa_round [4] $end
+$var wire 1 83 u_rounding|mantisa_round [3] $end
+$var wire 1 93 u_rounding|mantisa_round [2] $end
+$var wire 1 :3 u_rounding|mantisa_round [1] $end
+$var wire 1 ;3 u_rounding|mantisa_round [0] $end
+$var wire 1 <3 u_rounding|mant_temp [23] $end
+$var wire 1 =3 u_rounding|mant_temp [22] $end
+$var wire 1 >3 u_rounding|mant_temp [21] $end
+$var wire 1 ?3 u_rounding|mant_temp [20] $end
+$var wire 1 @3 u_rounding|mant_temp [19] $end
+$var wire 1 A3 u_rounding|mant_temp [18] $end
+$var wire 1 B3 u_rounding|mant_temp [17] $end
+$var wire 1 C3 u_rounding|mant_temp [16] $end
+$var wire 1 D3 u_rounding|mant_temp [15] $end
+$var wire 1 E3 u_rounding|mant_temp [14] $end
+$var wire 1 F3 u_rounding|mant_temp [13] $end
+$var wire 1 G3 u_rounding|mant_temp [12] $end
+$var wire 1 H3 u_rounding|mant_temp [11] $end
+$var wire 1 I3 u_rounding|mant_temp [10] $end
+$var wire 1 J3 u_rounding|mant_temp [9] $end
+$var wire 1 K3 u_rounding|mant_temp [8] $end
+$var wire 1 L3 u_rounding|mant_temp [7] $end
+$var wire 1 M3 u_rounding|mant_temp [6] $end
+$var wire 1 N3 u_rounding|mant_temp [5] $end
+$var wire 1 O3 u_rounding|mant_temp [4] $end
+$var wire 1 P3 u_rounding|mant_temp [3] $end
+$var wire 1 Q3 u_rounding|mant_temp [2] $end
+$var wire 1 R3 u_rounding|mant_temp [1] $end
+$var wire 1 S3 u_rounding|mant_temp [0] $end
+$var wire 1 T3 u_rounding|exp_temp [7] $end
+$var wire 1 U3 u_rounding|exp_temp [6] $end
+$var wire 1 V3 u_rounding|exp_temp [5] $end
+$var wire 1 W3 u_rounding|exp_temp [4] $end
+$var wire 1 X3 u_rounding|exp_temp [3] $end
+$var wire 1 Y3 u_rounding|exp_temp [2] $end
+$var wire 1 Z3 u_rounding|exp_temp [1] $end
+$var wire 1 [3 u_rounding|exp_temp [0] $end
+$var wire 1 \3 u_rounding|exp_round [7] $end
+$var wire 1 ]3 u_rounding|exp_round [6] $end
+$var wire 1 ^3 u_rounding|exp_round [5] $end
+$var wire 1 _3 u_rounding|exp_round [4] $end
+$var wire 1 `3 u_rounding|exp_round [3] $end
+$var wire 1 a3 u_rounding|exp_round [2] $end
+$var wire 1 b3 u_rounding|exp_round [1] $end
+$var wire 1 c3 u_rounding|exp_round [0] $end
+$var wire 1 d3 u_pack|result [31] $end
+$var wire 1 e3 u_pack|result [30] $end
+$var wire 1 f3 u_pack|result [29] $end
+$var wire 1 g3 u_pack|result [28] $end
+$var wire 1 h3 u_pack|result [27] $end
+$var wire 1 i3 u_pack|result [26] $end
+$var wire 1 j3 u_pack|result [25] $end
+$var wire 1 k3 u_pack|result [24] $end
+$var wire 1 l3 u_pack|result [23] $end
+$var wire 1 m3 u_pack|result [22] $end
+$var wire 1 n3 u_pack|result [21] $end
+$var wire 1 o3 u_pack|result [20] $end
+$var wire 1 p3 u_pack|result [19] $end
+$var wire 1 q3 u_pack|result [18] $end
+$var wire 1 r3 u_pack|result [17] $end
+$var wire 1 s3 u_pack|result [16] $end
+$var wire 1 t3 u_pack|result [15] $end
+$var wire 1 u3 u_pack|result [14] $end
+$var wire 1 v3 u_pack|result [13] $end
+$var wire 1 w3 u_pack|result [12] $end
+$var wire 1 x3 u_pack|result [11] $end
+$var wire 1 y3 u_pack|result [10] $end
+$var wire 1 z3 u_pack|result [9] $end
+$var wire 1 {3 u_pack|result [8] $end
+$var wire 1 |3 u_pack|result [7] $end
+$var wire 1 }3 u_pack|result [6] $end
+$var wire 1 ~3 u_pack|result [5] $end
+$var wire 1 !4 u_pack|result [4] $end
+$var wire 1 "4 u_pack|result [3] $end
+$var wire 1 #4 u_pack|result [2] $end
+$var wire 1 $4 u_pack|result [1] $end
+$var wire 1 %4 u_pack|result [0] $end
+$var wire 1 &4 opb_i~combout [31] $end
+$var wire 1 '4 opb_i~combout [30] $end
+$var wire 1 (4 opb_i~combout [29] $end
+$var wire 1 )4 opb_i~combout [28] $end
+$var wire 1 *4 opb_i~combout [27] $end
+$var wire 1 +4 opb_i~combout [26] $end
+$var wire 1 ,4 opb_i~combout [25] $end
+$var wire 1 -4 opb_i~combout [24] $end
+$var wire 1 .4 opb_i~combout [23] $end
+$var wire 1 /4 opb_i~combout [22] $end
+$var wire 1 04 opb_i~combout [21] $end
+$var wire 1 14 opb_i~combout [20] $end
+$var wire 1 24 opb_i~combout [19] $end
+$var wire 1 34 opb_i~combout [18] $end
+$var wire 1 44 opb_i~combout [17] $end
+$var wire 1 54 opb_i~combout [16] $end
+$var wire 1 64 opb_i~combout [15] $end
+$var wire 1 74 opb_i~combout [14] $end
+$var wire 1 84 opb_i~combout [13] $end
+$var wire 1 94 opb_i~combout [12] $end
+$var wire 1 :4 opb_i~combout [11] $end
+$var wire 1 ;4 opb_i~combout [10] $end
+$var wire 1 <4 opb_i~combout [9] $end
+$var wire 1 =4 opb_i~combout [8] $end
+$var wire 1 >4 opb_i~combout [7] $end
+$var wire 1 ?4 opb_i~combout [6] $end
+$var wire 1 @4 opb_i~combout [5] $end
+$var wire 1 A4 opb_i~combout [4] $end
+$var wire 1 B4 opb_i~combout [3] $end
+$var wire 1 C4 opb_i~combout [2] $end
+$var wire 1 D4 opb_i~combout [1] $end
+$var wire 1 E4 opb_i~combout [0] $end
+$var wire 1 F4 opa_i~combout [31] $end
+$var wire 1 G4 opa_i~combout [30] $end
+$var wire 1 H4 opa_i~combout [29] $end
+$var wire 1 I4 opa_i~combout [28] $end
+$var wire 1 J4 opa_i~combout [27] $end
+$var wire 1 K4 opa_i~combout [26] $end
+$var wire 1 L4 opa_i~combout [25] $end
+$var wire 1 M4 opa_i~combout [24] $end
+$var wire 1 N4 opa_i~combout [23] $end
+$var wire 1 O4 opa_i~combout [22] $end
+$var wire 1 P4 opa_i~combout [21] $end
+$var wire 1 Q4 opa_i~combout [20] $end
+$var wire 1 R4 opa_i~combout [19] $end
+$var wire 1 S4 opa_i~combout [18] $end
+$var wire 1 T4 opa_i~combout [17] $end
+$var wire 1 U4 opa_i~combout [16] $end
+$var wire 1 V4 opa_i~combout [15] $end
+$var wire 1 W4 opa_i~combout [14] $end
+$var wire 1 X4 opa_i~combout [13] $end
+$var wire 1 Y4 opa_i~combout [12] $end
+$var wire 1 Z4 opa_i~combout [11] $end
+$var wire 1 [4 opa_i~combout [10] $end
+$var wire 1 \4 opa_i~combout [9] $end
+$var wire 1 ]4 opa_i~combout [8] $end
+$var wire 1 ^4 opa_i~combout [7] $end
+$var wire 1 _4 opa_i~combout [6] $end
+$var wire 1 `4 opa_i~combout [5] $end
+$var wire 1 a4 opa_i~combout [4] $end
+$var wire 1 b4 opa_i~combout [3] $end
+$var wire 1 c4 opa_i~combout [2] $end
+$var wire 1 d4 opa_i~combout [1] $end
+$var wire 1 e4 opa_i~combout [0] $end
 $var wire 1 f4 mode_i~combout [1] $end
 $var wire 1 g4 mode_i~combout [0] $end
-$var wire 1 h4 opa_i~combout [31] $end
-$var wire 1 i4 opa_i~combout [30] $end
-$var wire 1 j4 opa_i~combout [29] $end
-$var wire 1 k4 opa_i~combout [28] $end
-$var wire 1 l4 opa_i~combout [27] $end
-$var wire 1 m4 opa_i~combout [26] $end
-$var wire 1 n4 opa_i~combout [25] $end
-$var wire 1 o4 opa_i~combout [24] $end
-$var wire 1 p4 opa_i~combout [23] $end
-$var wire 1 q4 opa_i~combout [22] $end
-$var wire 1 r4 opa_i~combout [21] $end
-$var wire 1 s4 opa_i~combout [20] $end
-$var wire 1 t4 opa_i~combout [19] $end
-$var wire 1 u4 opa_i~combout [18] $end
-$var wire 1 v4 opa_i~combout [17] $end
-$var wire 1 w4 opa_i~combout [16] $end
-$var wire 1 x4 opa_i~combout [15] $end
-$var wire 1 y4 opa_i~combout [14] $end
-$var wire 1 z4 opa_i~combout [13] $end
-$var wire 1 {4 opa_i~combout [12] $end
-$var wire 1 |4 opa_i~combout [11] $end
-$var wire 1 }4 opa_i~combout [10] $end
-$var wire 1 ~4 opa_i~combout [9] $end
-$var wire 1 !5 opa_i~combout [8] $end
-$var wire 1 "5 opa_i~combout [7] $end
-$var wire 1 #5 opa_i~combout [6] $end
-$var wire 1 $5 opa_i~combout [5] $end
-$var wire 1 %5 opa_i~combout [4] $end
-$var wire 1 &5 opa_i~combout [3] $end
-$var wire 1 '5 opa_i~combout [2] $end
-$var wire 1 (5 opa_i~combout [1] $end
-$var wire 1 )5 opa_i~combout [0] $end
-$var wire 1 *5 opb_i~combout [31] $end
-$var wire 1 +5 opb_i~combout [30] $end
-$var wire 1 ,5 opb_i~combout [29] $end
-$var wire 1 -5 opb_i~combout [28] $end
-$var wire 1 .5 opb_i~combout [27] $end
-$var wire 1 /5 opb_i~combout [26] $end
-$var wire 1 05 opb_i~combout [25] $end
-$var wire 1 15 opb_i~combout [24] $end
-$var wire 1 25 opb_i~combout [23] $end
-$var wire 1 35 opb_i~combout [22] $end
-$var wire 1 45 opb_i~combout [21] $end
-$var wire 1 55 opb_i~combout [20] $end
-$var wire 1 65 opb_i~combout [19] $end
-$var wire 1 75 opb_i~combout [18] $end
-$var wire 1 85 opb_i~combout [17] $end
-$var wire 1 95 opb_i~combout [16] $end
-$var wire 1 :5 opb_i~combout [15] $end
-$var wire 1 ;5 opb_i~combout [14] $end
-$var wire 1 <5 opb_i~combout [13] $end
-$var wire 1 =5 opb_i~combout [12] $end
-$var wire 1 >5 opb_i~combout [11] $end
-$var wire 1 ?5 opb_i~combout [10] $end
-$var wire 1 @5 opb_i~combout [9] $end
-$var wire 1 A5 opb_i~combout [8] $end
-$var wire 1 B5 opb_i~combout [7] $end
-$var wire 1 C5 opb_i~combout [6] $end
-$var wire 1 D5 opb_i~combout [5] $end
-$var wire 1 E5 opb_i~combout [4] $end
-$var wire 1 F5 opb_i~combout [3] $end
-$var wire 1 G5 opb_i~combout [2] $end
-$var wire 1 H5 opb_i~combout [1] $end
-$var wire 1 I5 opb_i~combout [0] $end
+$var wire 1 h4 u_unpack|mantA_o [23] $end
+$var wire 1 i4 u_unpack|mantA_o [22] $end
+$var wire 1 j4 u_unpack|mantA_o [21] $end
+$var wire 1 k4 u_unpack|mantA_o [20] $end
+$var wire 1 l4 u_unpack|mantA_o [19] $end
+$var wire 1 m4 u_unpack|mantA_o [18] $end
+$var wire 1 n4 u_unpack|mantA_o [17] $end
+$var wire 1 o4 u_unpack|mantA_o [16] $end
+$var wire 1 p4 u_unpack|mantA_o [15] $end
+$var wire 1 q4 u_unpack|mantA_o [14] $end
+$var wire 1 r4 u_unpack|mantA_o [13] $end
+$var wire 1 s4 u_unpack|mantA_o [12] $end
+$var wire 1 t4 u_unpack|mantA_o [11] $end
+$var wire 1 u4 u_unpack|mantA_o [10] $end
+$var wire 1 v4 u_unpack|mantA_o [9] $end
+$var wire 1 w4 u_unpack|mantA_o [8] $end
+$var wire 1 x4 u_unpack|mantA_o [7] $end
+$var wire 1 y4 u_unpack|mantA_o [6] $end
+$var wire 1 z4 u_unpack|mantA_o [5] $end
+$var wire 1 {4 u_unpack|mantA_o [4] $end
+$var wire 1 |4 u_unpack|mantA_o [3] $end
+$var wire 1 }4 u_unpack|mantA_o [2] $end
+$var wire 1 ~4 u_unpack|mantA_o [1] $end
+$var wire 1 !5 u_unpack|mantA_o [0] $end
+$var wire 1 "5 u_unpack|mantB_o [23] $end
+$var wire 1 #5 u_unpack|mantB_o [22] $end
+$var wire 1 $5 u_unpack|mantB_o [21] $end
+$var wire 1 %5 u_unpack|mantB_o [20] $end
+$var wire 1 &5 u_unpack|mantB_o [19] $end
+$var wire 1 '5 u_unpack|mantB_o [18] $end
+$var wire 1 (5 u_unpack|mantB_o [17] $end
+$var wire 1 )5 u_unpack|mantB_o [16] $end
+$var wire 1 *5 u_unpack|mantB_o [15] $end
+$var wire 1 +5 u_unpack|mantB_o [14] $end
+$var wire 1 ,5 u_unpack|mantB_o [13] $end
+$var wire 1 -5 u_unpack|mantB_o [12] $end
+$var wire 1 .5 u_unpack|mantB_o [11] $end
+$var wire 1 /5 u_unpack|mantB_o [10] $end
+$var wire 1 05 u_unpack|mantB_o [9] $end
+$var wire 1 15 u_unpack|mantB_o [8] $end
+$var wire 1 25 u_unpack|mantB_o [7] $end
+$var wire 1 35 u_unpack|mantB_o [6] $end
+$var wire 1 45 u_unpack|mantB_o [5] $end
+$var wire 1 55 u_unpack|mantB_o [4] $end
+$var wire 1 65 u_unpack|mantB_o [3] $end
+$var wire 1 75 u_unpack|mantB_o [2] $end
+$var wire 1 85 u_unpack|mantB_o [1] $end
+$var wire 1 95 u_unpack|mantB_o [0] $end
+$var wire 1 :5 u_unpack|expB_o [7] $end
+$var wire 1 ;5 u_unpack|expB_o [6] $end
+$var wire 1 <5 u_unpack|expB_o [5] $end
+$var wire 1 =5 u_unpack|expB_o [4] $end
+$var wire 1 >5 u_unpack|expB_o [3] $end
+$var wire 1 ?5 u_unpack|expB_o [2] $end
+$var wire 1 @5 u_unpack|expB_o [1] $end
+$var wire 1 A5 u_unpack|expB_o [0] $end
+$var wire 1 B5 u_unpack|expA_o [7] $end
+$var wire 1 C5 u_unpack|expA_o [6] $end
+$var wire 1 D5 u_unpack|expA_o [5] $end
+$var wire 1 E5 u_unpack|expA_o [4] $end
+$var wire 1 F5 u_unpack|expA_o [3] $end
+$var wire 1 G5 u_unpack|expA_o [2] $end
+$var wire 1 H5 u_unpack|expA_o [1] $end
+$var wire 1 I5 u_unpack|expA_o [0] $end
 $upscope $end
 $upscope $end
 $enddefinitions $end
@@ -3696,18 +3696,6 @@ xO
 1_1
 0`1
 1a1
-0i1
-0h1
-0g1
-0f1
-0e1
-0d1
-0c1
-0b1
-0#2
-0"2
-0!2
-0~1
 0}1
 0|1
 0{1
@@ -3728,6 +3716,14 @@ xO
 0l1
 0k1
 0j1
+0i1
+0h1
+0g1
+0f1
+0e1
+0d1
+0c1
+0b1
 0;2
 0:2
 092
@@ -3752,22 +3748,10 @@ xO
 0&2
 0%2
 0$2
-0C2
-0B2
-0A2
-0@2
-0?2
-0>2
-0=2
-0<2
-0_2
-0^2
-0]2
-0\2
-0[2
-0Z2
-0Y2
-0X2
+0#2
+0"2
+0!2
+z~1
 0W2
 0V2
 0U2
@@ -3788,7 +3772,22 @@ xO
 0F2
 0E2
 0D2
-0{2
+0C2
+0B2
+0A2
+0@2
+0?2
+0>2
+0=2
+z<2
+0_2
+0^2
+0]2
+0\2
+0[2
+0Z2
+0Y2
+0X2
 0z2
 0y2
 0x2
@@ -3815,7 +3814,17 @@ xO
 0c2
 0b2
 0a2
-z`2
+0`2
+0$3
+0#3
+0"3
+0!3
+0~2
+0}2
+0|2
+0{2
+0;3
+0:3
 093
 083
 073
@@ -3837,30 +3846,6 @@ z`2
 0'3
 0&3
 0%3
-0$3
-0#3
-0"3
-0!3
-0~2
-0}2
-z|2
-0A3
-0@3
-0?3
-0>3
-0=3
-0<3
-0;3
-0:3
-0\3
-0[3
-0Z3
-0Y3
-0X3
-0W3
-0V3
-0U3
-0T3
 0S3
 0R3
 0Q3
@@ -3879,7 +3864,20 @@ z|2
 0D3
 0C3
 0B3
-0d3
+0A3
+0@3
+0?3
+0>3
+0=3
+0<3
+0[3
+0Z3
+0Y3
+0X3
+0W3
+0V3
+0U3
+0T3
 0c3
 0b3
 0a3
@@ -3887,6 +3885,15 @@ z|2
 0_3
 0^3
 0]3
+0\3
+0%4
+0$4
+0#4
+0"4
+0!4
+0~3
+0}3
+0|3
 0{3
 0z3
 0y3
@@ -3910,38 +3917,7 @@ z|2
 0g3
 0f3
 0e3
-054
-044
-034
-024
-014
-004
-0/4
-0.4
-0-4
-0,4
-0+4
-0*4
-0)4
-0(4
-0'4
-0&4
-0%4
-0$4
-0#4
-0"4
-0!4
-0~3
-0}3
-0|3
-0=4
-0<4
-0;4
-0:4
-094
-084
-074
-064
+0d3
 0E4
 0D4
 0C4
@@ -3950,6 +3926,30 @@ z|2
 0@4
 0?4
 0>4
+0=4
+0<4
+0;4
+0:4
+094
+084
+074
+064
+054
+144
+034
+024
+014
+004
+0/4
+0.4
+0-4
+1,4
+0+4
+0*4
+0)4
+0(4
+1'4
+0&4
 0e4
 0d4
 0c4
@@ -3967,31 +3967,23 @@ z|2
 0W4
 0V4
 0U4
-0T4
+1T4
 0S4
-0R4
+1R4
 0Q4
 0P4
-0O4
+1O4
 0N4
-0M4
+1M4
 0L4
 0K4
 0J4
 0I4
 0H4
-0G4
+1G4
 0F4
 0g4
 0f4
-0)5
-0(5
-0'5
-0&5
-0%5
-0$5
-0#5
-0"5
 0!5
 0~4
 0}4
@@ -4001,29 +3993,45 @@ z|2
 0y4
 0x4
 0w4
-1v4
+0v4
 0u4
-1t4
+0t4
 0s4
 0r4
-1q4
+0q4
 0p4
-1o4
+0o4
 0n4
 0m4
 0l4
 0k4
 0j4
-1i4
+0i4
 0h4
-0I5
-0H5
-0G5
-0F5
-0E5
-0D5
-0C5
-0B5
+095
+085
+075
+065
+055
+045
+035
+025
+015
+005
+0/5
+0.5
+0-5
+0,5
+0+5
+0*5
+0)5
+0(5
+0'5
+0&5
+0%5
+0$5
+0#5
+0"5
 0A5
 0@5
 0?5
@@ -4032,22 +4040,14 @@ z|2
 0<5
 0;5
 0:5
-095
-185
-075
-065
-055
-045
-035
-025
-015
-105
-0/5
-0.5
-0-5
-0,5
-1+5
-0*5
+0I5
+0H5
+0G5
+0F5
+0E5
+0D5
+0C5
+0B5
 $end
 #50000
 1"
@@ -4069,21 +4069,21 @@ $end
 1G%
 1H%
 1L
-1]3
-1^3
-1_3
-1b3
-1h1
-1d3
-1*2
-1p1
-1b1
-1%2
-1<2
-1j1
-1$2
-1(2
-1A2
+1{2
+1|2
+1}2
+1"3
+1H5
+1$3
+1n4
+1(5
+1B5
+1i4
+1:5
+1"5
+1h4
+1l4
+1?5
 1M1
 1X/
 1)-
@@ -4171,21 +4171,21 @@ $end
 1J%
 1K%
 0L
-0]3
-0^3
-0_3
-0b3
-0h1
-0d3
-0*2
-0p1
-0b1
-0%2
-0<2
-0j1
-0$2
-0(2
-0A2
+0{2
+0|2
+0}2
+0"3
+0H5
+0$3
+0n4
+0(5
+0B5
+0i4
+0:5
+0"5
+0h4
+0l4
+0?5
 0M1
 0X/
 0)-
@@ -4375,21 +4375,21 @@ $end
 1G%
 1H%
 1L
-1]3
-1^3
-1_3
-1b3
-1h1
-1d3
-1*2
-1p1
-1b1
-1%2
-1<2
-1j1
-1$2
-1(2
-1A2
+1{2
+1|2
+1}2
+1"3
+1H5
+1$3
+1n4
+1(5
+1B5
+1i4
+1:5
+1"5
+1h4
+1l4
+1?5
 1M1
 1X/
 1)-
@@ -4482,19 +4482,19 @@ $end
 1G%
 1H%
 1L
-164
-1:3
-174
-184
-1;4
-1?3
-1=4
-1a2
-1%3
-1g2
-1"3
-1!3
-1'3
+1T3
+1X2
+1U3
+1V3
+1Y3
+1]2
+1[3
+1!2
+1C2
+1'2
+1@2
+1?2
+1E2
 1O1
 0q0
 1X0
@@ -4925,19 +4925,19 @@ $end
 1G%
 1H%
 1L
-1>4
-0]3
-1?4
-1@4
+1\3
+0{2
+1]3
+1^3
+1!3
 1a3
-1C4
-0b3
-1E4
-1M2
-1J2
-1H2
-1G2
-1E2
+0"3
+1c3
+1k1
+1h1
+1f1
+1e1
+1c1
 0X1
 1P1
 0M1
@@ -5242,25 +5242,25 @@ $end
 1G%
 1H%
 1L
-1G4
-064
-1]3
-1H4
-0^3
-1I4
-0_3
-1:4
-0a3
-1L4
-0;4
-1b3
-1N4
-0d3
-1D3
-1B3
-1J3
-1G3
-1E3
+1e3
+0T3
+1{2
+1f3
+0|2
+1g3
+0}2
+1X3
+0!3
+1j3
+0Y3
+1"3
+1l3
+0$3
+1b2
+1`2
+1h2
+1e2
+1c2
 0O1
 1M1
 0X/
@@ -5289,20 +5289,20 @@ $end
 1G%
 1H%
 1L
-0>4
-164
-074
-084
-1B4
-0:4
-0C4
-1;4
-0=4
-1~3
-1!4
-1#4
-1|3
-1&4
+0\3
+1T3
+0U3
+0V3
+1`3
+0X3
+0a3
+1Y3
+0[3
+1>3
+1?3
+1A3
+1<3
+1D3
 0P1
 1O1
 0X0
@@ -5328,19 +5328,19 @@ $end
 1G%
 1H%
 1L
-0G4
-1>4
-0?4
-0@4
-1K4
-0B4
-0L4
-1C4
-0E4
-1f3
-1g3
+0e3
+1\3
+0]3
+0^3
 1i3
-1l3
+0`3
+0j3
+1a3
+0c3
+1&3
+1'3
+1)3
+1,3
 1?+
 1P1
 0Z0
@@ -5373,24 +5373,24 @@ $end
 1G%
 1H%
 1L
-1G4
-0H4
-0I4
-0K4
-1L4
-0N4
-1E4
 1e3
-1P4
 0f3
-1Q4
-1h3
-1S4
+0g3
 0i3
 1j3
-1V4
 0l3
-1m3
+1c3
+1%3
+1n3
+0&3
+1o3
+1(3
+1q3
+0)3
+1*3
+1t3
+0,3
+1-3
 1|+
 0z+
 1u+
@@ -5418,14 +5418,14 @@ $end
 1G%
 1H%
 1L
-1N4
-1O4
-0P4
-1R4
-0S4
-1T4
-0V4
-1W4
+1l3
+1m3
+0n3
+1p3
+0q3
+1r3
+0t3
+1u3
 12
 13
 04
