@@ -1,0 +1,7 @@
+module rounding(
+	input wire [27:0] mantisa_norm,
+	input wire [7:0]	exp_norm,
+	
+	output reg [22:0] mantisa_round,
+	output reg [7:0] exp_norm
+);

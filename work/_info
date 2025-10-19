@@ -1,0 +1,162 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\LAB3\tb_lab3
+vAdd_Sub_mantisa
+Z1 !s100 mVPVl7i_4<R=n;9LgzZWS1
+Z2 I6]QW5NBi8VVl286b=J[OB1
+Z3 VkaoecLIdJUP2dD2Q5AlXa1
+Z4 dC:\Users\LE TUAN THANH\Desktop\Floating_Point_Project
+Z5 w1760777359
+Z6 8C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Add_Sub_mantisa.v
+Z7 FC:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Add_Sub_mantisa.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Add_Sub_mantisa.v|
+Z10 o-work work -O0
+Z11 n@add_@sub_mantisa
+Z12 !s108 1760781830.354000
+Z13 !s107 C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Add_Sub_mantisa.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFPU_32b
+Z14 !s100 h]^3WmI4:Y4f[OJiCzm5A0
+Z15 IiOekhzCcfJ=`7gfHn2MML0
+Z16 V^b0E;oag;a2=oC<QkXhcD2
+R4
+Z17 w1760777395
+Z18 8C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/FPU_32b.v
+Z19 FC:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/FPU_32b.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/FPU_32b.v|
+R10
+Z21 n@f@p@u_32b
+Z22 !s108 1760781830.417000
+Z23 !s107 C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/FPU_32b.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vNormalize
+Z24 !s100 [f6SRSF`?Ne76Cod]P[7^1
+Z25 IAOQHfgO5ihnL7ag=RTGWe3
+Z26 V3TDH^7<2Xn7_@WYg`X:nV3
+R4
+Z27 w1760777757
+Z28 8C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Normalize.v
+Z29 FC:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Normalize.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Normalize.v|
+R10
+Z31 n@normalize
+Z32 !s108 1760781830.485000
+Z33 !s107 C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Normalize.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpack
+Z34 !s100 76o:]?m;S@f@YYJFC5XCU1
+Z35 IRI<83@O@i<6Wzc9<nZ1g;3
+Z36 V44Kn2>Joo7_O>^8I=;OKU2
+R4
+Z37 w1760772243
+Z38 8C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Pack.v
+Z39 FC:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Pack.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Pack.v|
+R10
+Z41 !s108 1760781830.545000
+Z42 !s107 C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Pack.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpre_normalize
+Z43 !s100 kk7lO@ijXzn7WNNCnNYDY2
+Z44 IdXG`M:?JUh^1YIl22RRea1
+Z45 Vz4<0KI<N:bjD@nnjA=bLg0
+R4
+Z46 w1760617186
+Z47 8C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/pre_normalize.v
+Z48 FC:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/pre_normalize.v
+L0 7
+R8
+r1
+31
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/pre_normalize.v|
+R10
+Z50 !s108 1760781830.624000
+Z51 !s107 C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/pre_normalize.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrounding
+Z52 !s100 bIcYeTWcP[dCAg6mPmT]<3
+Z53 I^cR>jR[OC`HNdokfbNc7W1
+Z54 VClI6L@Ok]iQWkJfk@LHKD0
+R4
+Z55 w1760777835
+Z56 8C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/rounding.v
+Z57 FC:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/rounding.v
+L0 1
+R8
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/rounding.v|
+R10
+Z59 !s108 1760781830.688000
+Z60 !s107 C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/rounding.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_FPU_32b
+Z61 IN]WSIiFBBdbj_nJ1Jc<:e3
+Z62 V]7K5C5ldc1JLh<D]0aHQb0
+R4
+Z63 w1760781576
+Z64 8C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/tb_FPU_32b.v
+Z65 FC:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/tb_FPU_32b.v
+L0 3
+R8
+r1
+31
+R10
+Z66 ntb_@f@p@u_32b
+!i10b 1
+Z67 !s100 9AIAzzQlGOLoKgb2DMQ6Y2
+!s85 0
+Z68 !s108 1760781830.751000
+Z69 !s107 C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/tb_FPU_32b.v|
+Z70 !s90 -reportprogress|300|-work|work|C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/tb_FPU_32b.v|
+!s101 -O0
+vUnpack
+!i10b 1
+Z71 !s100 FDb8>AW=9^JaEGI@QMQgJ2
+Z72 IBnjRL0;?MdUCQna8;MmlN3
+Z73 Vm`mc?dTK0jNKL9Am19fJO2
+R4
+Z74 w1760777533
+Z75 8C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Unpack.v
+Z76 FC:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Unpack.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1760781830.814000
+!s107 C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Unpack.v|
+Z77 !s90 -reportprogress|300|-work|work|C:/Users/LE TUAN THANH/Desktop/Floating_Point_Project/Unpack.v|
+!s101 -O0
+R10
+Z78 n@unpack

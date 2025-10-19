@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\LE TUAN THANH\Desktop\Floating_Point_Project\simulation\qsim
+vFPU_32b
+Z1 !s100 6]Q8CJnaBWXAW<HC1fz7^3
+Z2 IGQW?IPG0Q8624>[^6DIB_2
+Z3 V^b0E;oag;a2=oC<QkXhcD2
+Z4 dC:\Users\LE TUAN THANH\Desktop\Floating_Point_Project\simulation\qsim
+Z5 w1760794639
+Z6 8FPU_32b.vo
+Z7 FFPU_32b.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|FPU_32b.vo|
+Z10 o-work work -O0
+Z11 n@f@p@u_32b
+!i10b 1
+!s85 0
+Z12 !s108 1760794640.468000
+Z13 !s107 FPU_32b.vo|
+!s101 -O0
+vFPU_32b_vlg_check_tst
+!i10b 1
+Z14 !s100 Yh@OcjI4>`0z<13IzB18n3
+Z15 I<Yk3NB7dYCJNkAk6W8IDk2
+Z16 VNK6U^n@RQ^fTWml^JWU@H3
+R4
+Z17 w1760794638
+Z18 8FPU_32b.vt
+Z19 FFPU_32b.vt
+L0 67
+R8
+r1
+!s85 0
+31
+Z20 !s108 1760794640.710000
+Z21 !s107 FPU_32b.vt|
+Z22 !s90 -work|work|FPU_32b.vt|
+!s101 -O0
+R10
+Z23 n@f@p@u_32b_vlg_check_tst
+vFPU_32b_vlg_sample_tst
+!i10b 1
+Z24 !s100 fWL;97SO]lBF6NYH3SWde3
+Z25 IOOASabCb`MWzjLTh2GCSG0
+Z26 VDl5?G[eLjWSS?P>UZehLd2
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@f@p@u_32b_vlg_sample_tst
+vFPU_32b_vlg_vec_tst
+!i10b 1
+!s100 Pj^TdO39`>=XCbWTjL3lR2
+IBbz7ldIoTk>cRYdgo1f1k1
+Z28 V[ADl6Sc`?4;1Sg]PObWIn2
+R4
+R17
+R18
+R19
+Z29 L0 854
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@f@p@u_32b_vlg_vec_tst

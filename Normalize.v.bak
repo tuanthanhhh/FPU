@@ -1,0 +1,8 @@
+module Normalize(
+	wire input mantisa_raw,
+	wire input [7:0] exp_common,
+	wire clk,
+	
+	wire output mantisa_norm,
+	wire output exp_norm
+);
