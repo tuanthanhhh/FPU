@@ -29,6 +29,7 @@ module rounding(
 			exp_temp <= 8'b0;
 		end else
 		begin
+			exp_temp = exp_norm;
 			case(mode)
 			2'b00:
 			begin
