@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\LE TUAN THANH\Desktop\Floating_Point_Project
+vAdder_32bit
+Z1 !s100 Cb6Y;`N:doj:oM7Un@Uz_0
+Z2 I_h9Vng258cFh;NSUXLgNc1
+Z3 Ve_6zJHJVV2HhFGVgkoRFM1
+Z4 dC:\Users\LE TUAN THANH\Desktop\Floating_Point_Project
+Z5 w1760971667
+Z6 8C:/Users/LE TUAN THANH/Desktop/Adder_32bit/Adder_32bit.v
+Z7 FC:/Users/LE TUAN THANH/Desktop/Adder_32bit/Adder_32bit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|add|C:/Users/LE TUAN THANH/Desktop/Adder_32bit/Adder_32bit.v|
+Z10 o-work add -O0
+Z11 n@adder_32bit
+Z12 !s108 1761357791.941000
+Z13 !s107 C:/Users/LE TUAN THANH/Desktop/Adder_32bit/Adder_32bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFA
+Z14 !s100 C]hd]TA]LFZ0ia;F[SOfG2
+Z15 IWVH019Z8kBQj`P>^THN;i3
+Z16 VW]K3<AlJd7Wc8J=zMLdZF2
+R4
+Z17 w1760970789
+Z18 8C:/Users/LE TUAN THANH/Desktop/Adder_32bit/FA.v
+Z19 FC:/Users/LE TUAN THANH/Desktop/Adder_32bit/FA.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|add|C:/Users/LE TUAN THANH/Desktop/Adder_32bit/FA.v|
+R10
+n@f@a
+!i10b 1
+!s85 0
+Z21 !s108 1761357792.012000
+Z22 !s107 C:/Users/LE TUAN THANH/Desktop/Adder_32bit/FA.v|
+!s101 -O0
+vtb_Adder_32bit
+!i10b 1
+!s100 b9X9PK74A9SdL[@@9^4DF3
+I1]kk4<X]N658c[1GZn=7B0
+Z23 V]=_8h_1Lhco5R96>gBFUC0
+R4
+w1761357785
+8C:\Users\LE TUAN THANH\Desktop\Adder_32bit\tb_Adder_32bit.v
+FC:\Users\LE TUAN THANH\Desktop\Adder_32bit\tb_Adder_32bit.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1761357792.074000
+!s107 C:\Users\LE TUAN THANH\Desktop\Adder_32bit\tb_Adder_32bit.v|
+!s90 -reportprogress|300|-work|add|C:\Users\LE TUAN THANH\Desktop\Adder_32bit\tb_Adder_32bit.v|
+!s101 -O0
+R10
+Z24 ntb_@adder_32bit

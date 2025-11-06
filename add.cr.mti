@@ -1,0 +1,15 @@
+{C:/Users/LE TUAN THANH/Desktop/Adder_32bit/Adder_32bit.v} {1 {vlog -work add {C:/Users/LE TUAN THANH/Desktop/Adder_32bit/Adder_32bit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder_32bit
+
+Top level modules:
+	Adder_32bit
+
+} {} {}} {C:/Users/LE TUAN THANH/Desktop/Adder_32bit/FA.v} {1 {vlog -work add {C:/Users/LE TUAN THANH/Desktop/Adder_32bit/FA.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}}

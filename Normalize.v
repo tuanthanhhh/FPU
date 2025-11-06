@@ -34,7 +34,13 @@ module Normalize(
 			end
 			
 			mantisa_norm <= mant_temp[27:0];
-			exp_norm <= exp_temp;
+			if(mant_temp == 28'b0)
+			begin
+				exp_norm <= 8'b0;
+			end else
+			begin
+				exp_norm <= exp_temp;
+			end
 		end
 	end
 endmodule
