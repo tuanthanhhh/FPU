@@ -3,8 +3,10 @@ module Normalize(
     input  wire [7:0]  exp_common,
     input  wire clk,
     input  wire rst,
+	 input  wire sign,
     output reg [27:0] mantisa_norm,
-    output reg [7:0]  exp_norm
+    output reg [7:0]  exp_norm,
+	 output reg sign_norm
 );
 	reg [27:0] mant_temp;
 	reg [7:0] exp_temp;
@@ -37,9 +39,11 @@ module Normalize(
 			if(mant_temp == 28'b0)
 			begin
 				exp_norm <= 8'b0;
+				sign_norm <= 0;
 			end else
 			begin
 				exp_norm <= exp_temp;
+				sign_norm <= sign;
 			end
 		end
 	end

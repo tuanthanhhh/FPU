@@ -25,6 +25,7 @@ module FPU_32b(
 	wire [27:0] mantisa_raw;
 	wire sign_result;
 	
+	wire sign_norm;
 	wire [27:0] mantisa_norm;
 	wire [7:0] exp_norm;
 	
@@ -72,10 +73,12 @@ module FPU_32b(
 	Normalize u_normalize(
 			.clk(clk_i),
 			.rst(RST),
+			.sign(sign_result),
 			.mantisa_raw(mantisa_raw),
 			.exp_common(exp_common),
 			.mantisa_norm(mantisa_norm),
-			.exp_norm(exp_norm)
+			.exp_norm(exp_norm),
+			.sign_norm(sign_norm)
 	);
 		
 	rounding u_rounding(
@@ -83,7 +86,7 @@ module FPU_32b(
 			.rst(RST),
 			.mantisa_norm(mantisa_norm),
 			.exp_norm(exp_norm),
-			.sign_norm(sign_result),
+			.sign_norm(sign_norm),
 			.mode(mode_i),
 			.mantisa_round(mantisa_round),
 			.exp_round(exp_round)
@@ -92,7 +95,7 @@ module FPU_32b(
 	pack u_pack(
 			.clk(clk_i),
 			.rst(RST),
-			.sign(sign_result),
+			.sign(sign_norm),
 			.mantisa(mantisa_round),
 			.exp(exp_round),
 			.result(result)

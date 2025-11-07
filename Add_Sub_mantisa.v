@@ -32,7 +32,13 @@ module Add_Sub_mantisa(
 			if(effective_sub)
 			begin
 				mantisa_raw <= mant_diff;
-				sign_result <= Is_mantA_bigger? signA:signB;
+				if(signA == signB)
+				begin
+					sign_result <= Is_mantA_bigger? signA:~signA;
+				end else
+				begin
+					sign_result <= Is_mantA_bigger ? signA : signB;
+				end
 			end else
 			begin
 				mantisa_raw <= mant_sum;
