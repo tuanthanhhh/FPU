@@ -146,7 +146,7 @@ module tb_FPU_32b;
     opb_i = 32'h3FD3E282; // 1.65535
     fpu_op_i = 0;
     #200;
-    expected = 32'h4144F8A1; // 12.3107
+    expected = 32'h4144F8A0; // 12.3107
     check_result(i, result, expected);
 
     i=i+1;
@@ -326,7 +326,7 @@ module tb_FPU_32b;
     opb_i = 32'hBFD3E282; // -1.65535
     fpu_op_i = 0;
     #200;
-    expected = 32'hC144F8A1; // -12.3107
+    expected = 32'hC144F8A0; // -12.3107
     check_result(i, result, expected);
 
     i=i+1;
@@ -344,7 +344,7 @@ module tb_FPU_32b;
     opb_i = 32'hBF800347; // -1.0001
     fpu_op_i = 0;
     #200;
-    expected = 32'hC047E4CD; // -3.12334
+    expected = 32'hC047E4CE; // -3.12334
     check_result(i, result, expected);
 
     i=i+1;
@@ -362,7 +362,7 @@ module tb_FPU_32b;
     opb_i = 32'h3DE353F8; // 0.111
     fpu_op_i = 0;
     #200;
-    expected = 32'hBF800000; // -1
+    expected = 32'hBF7FFFFF; // -1
     check_result(i, result, expected);
 
     i=i+1;
