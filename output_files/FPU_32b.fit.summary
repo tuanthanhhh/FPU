@@ -1,14 +1,14 @@
-Fitter Status : Successful - Sun Oct 19 14:07:22 2025
-Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Fitter Status : Successful - Sat Nov 15 14:39:14 2025
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
 Revision Name : FPU_32b
 Top-level Entity Name : FPU_32b
 Family : Cyclone II
 Device : EP2C35F672C6
 Timing Models : Final
-Total logic elements : 1,311 / 33,216 ( 4 % )
-    Total combinational functions : 1,216 / 33,216 ( 4 % )
-    Dedicated logic registers : 282 / 33,216 ( < 1 % )
-Total registers : 282
+Total logic elements : 1,372 / 33,216 ( 4 % )
+    Total combinational functions : 1,264 / 33,216 ( 4 % )
+    Dedicated logic registers : 304 / 33,216 ( < 1 % )
+Total registers : 304
 Total pins : 106 / 475 ( 22 % )
 Total virtual pins : 0
 Total memory bits : 0 / 483,840 ( 0 % )

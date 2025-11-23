@@ -25,7 +25,7 @@ module rounding(
 			mant_temp <= 24'b0;
 			exp_round <= 8'b0;
 			mantisa_round <= 23'b0;
-			exp_temp <= 8'b0;
+			exp_temp = 8'b0;
 		end else
 		begin
 			exp_temp = exp_norm;
@@ -73,9 +73,9 @@ module rounding(
 				overflow <= 1'b0;
 			end
 			
-			mant_shifted = overflow ? (mant_temp >> 1) : mant_temp;
-			mantisa_round = mant_shifted[22:0];
-			exp_round = overflow? (exp_temp + 1) : exp_temp;
+			mant_shifted <= overflow ? (mant_temp >> 1) : mant_temp;
+			mantisa_round <= mant_shifted[22:0];
+			exp_round <= overflow? (exp_temp + 1) : exp_temp;
 		end
 	end
 endmodule 

@@ -2,29 +2,29 @@
 
 module tb_FPU_32b;
 
-    // ======================
-    // ==== Input / Output ===
-    // ======================
-    reg clk_i;
-    reg RST;
-    reg [31:0] opa_i;
-    reg [31:0] opb_i;
-    reg [1:0]  mode_i;      // 00: round to nearest even
-    reg fpu_op_i;           // 0: add, 1: sub
+    reg         clk_i;
+    reg         RST;
+    reg  [31:0] opa_i;
+    reg  [31:0] opb_i;
+    reg  [31:0] expected;
+    reg         fpu_op_i;
 
     wire [31:0] result;
     wire ine, overflow, underflow, inf, zero;
 
-    // ======================
-    // ==== FPU instance ====
-    // ======================
+    integer fp;
+    integer code;
+
+    // ==============================
+    // DUT
+    // ==============================
     FPU_32b DUT (
+        .clk_i(clk_i),
         .RST(RST),
         .opa_i(opa_i),
         .opb_i(opb_i),
-        .mode_i(mode_i),
+        .mode_i(2'b00),   // ví dụ ROUND TO NEAREST
         .fpu_op_i(fpu_op_i),
-        .clk_i(clk_i),
         .result(result),
         .ine(ine),
         .overflow(overflow),
@@ -33,115 +33,64 @@ module tb_FPU_32b;
         .zero(zero)
     );
 
-    // ======================
-    // ==== Clock generation ====
-    // ======================
-    initial begin
-        clk_i = 0;
-        forever #5 clk_i = ~clk_i;  // 100 MHz clock
-    end
+    // ==============================
+    // Clock
+    // ==============================
+    initial clk_i = 0;
+    always #5 clk_i = ~clk_i;
+	 integer i = 0;
+	 integer pass_cnt = 0;
+	 integer fail_cnt = 0;
 
-    // ======================
-    // ==== Helper functions ====
-    // ======================
-    function real bits_to_real(input [31:0] bits);
-        reg [31:0] tmp;
-        begin
-            tmp = bits;
-            bits_to_real = $bitstoreal({32'b0, tmp}) / (1.0 * (2.0**32)); // approximate, sim-only
-        end
-    endfunction
-
-    function [31:0] real_to_bits(input real val);
-        begin
-            real_to_bits = $realtobits(val)[31:0];
-        end
-    endfunction
-
-    // ======================
-    // ==== Test statistics ====
-    // ======================
-    integer pass_count = 0;
-    integer fail_count = 0;
-
+    // ==============================
+    // Task check_result
+    // ==============================
     task check_result;
-        input [31:0] opA;
-        input [31:0] opB;
-        input bit op_mode;   // 0:add, 1:sub
-        input real golden_val;
-        input [31:0] got_bits;
-        input integer test_id;
-
-        real got_val;
-        real diff;
+        input [31:0] opa_i_t;
+        input [31:0] opb_i_t;
+        input        fpu_op_i_t;
+        input [31:0] dut_result;
+        input [31:0] expected_bits;
         begin
-            got_val = $bitstoshortreal(got_bits);
-            diff = (golden_val > got_val) ? (golden_val - got_val) : (got_val - golden_val);
-
-            if (diff < 1e-5) begin
-                $display("Test %0d: PASS ✅  Expected=%f  Got=%f", test_id, golden_val, got_val);
-                pass_count = pass_count + 1;
+				i = i +1;
+            if (dut_result === expected_bits) begin
+                $display("PASS opa=%h opb=%h op=%0d DUT=%h Expected=%h", opa_i_t, opb_i_t, fpu_op_i_t, dut_result, expected_bits);
+					 pass_cnt = pass_cnt + 1;
+					 
             end else begin
-                $display("Test %0d: FAIL ❌  Expected=%f  Got=%f", test_id, golden_val, got_val);
-                fail_count = fail_count + 1;
+                $display("FAIL opa=%h opb=%h op=%0d DUT=%h Expected=%h", opa_i_t, opb_i_t, fpu_op_i_t, dut_result, expected_bits);
+					 fail_cnt = fail_cnt + 1;
             end
         end
     endtask
+	 
 
-    // ======================
-    // ==== Stimulus process ====
-    // ======================
+
+    // ==============================
+    // Testbench bằng file
+    // ==============================
     initial begin
-        $dumpfile("tb_FPU_32b.vcd");
-        $dumpvars(0, tb_FPU_32b);
-
-        // Reset
-        RST = 1;  mode_i = 2'b00;  fpu_op_i = 0;
+        RST = 1;
         #20 RST = 0;
 
-        // Test 1: 1.5 + 2.5 = 4.0
-        opa_i = 32'h3FC00000; // 1.5
-        opb_i = 32'h40200000; // 2.5
-        fpu_op_i = 0;
-        #100;
-        check_result(opa_i, opb_i, fpu_op_i, 4.0, result, 1);
+        fp = $fopen("test_vectors.txt", "r");
+        if (fp == 0) begin
+            $display("Cannot open file!");
+            $stop;
+        end
 
-        // Test 2: 5.75 - 2.5 = 3.25
-        opa_i = 32'h40B80000; // 5.75
-        opb_i = 32'h40200000; // 2.5
-        fpu_op_i = 1;
-        #100;
-        check_result(opa_i, opb_i, fpu_op_i, 3.25, result, 2);
+        while (!$feof(fp)) begin
+            code = $fscanf(fp, "%h %h %d %h\n", opa_i, opb_i, fpu_op_i, expected);
+            @(posedge clk_i);
+            @(posedge clk_i);
+				repeat(20) @(posedge clk_i);
+            // So sánh
+            check_result(opa_i, opb_i, fpu_op_i, result, expected);
+        end
 
-        // Test 3: (-3.5) + (1.5) = -2.0
-        opa_i = 32'hC0600000; // -3.5
-        opb_i = 32'h3FC00000; // +1.5
-        fpu_op_i = 0;
-        #100;
-        check_result(opa_i, opb_i, fpu_op_i, -2.0, result, 3);
-
-        // Test 4: 1e30 + 1e30 ≈ overflow
-        opa_i = 32'h6E6B2800;
-        opb_i = 32'h6E6B2800;
-        fpu_op_i = 0;
-        #100;
-        check_result(opa_i, opb_i, fpu_op_i, 1.9999999e30, result, 4);
-
-        // Test 5: 1e-30 + 1e-30 = 2e-30
-        opa_i = 32'h0C2D8000;
-        opb_i = 32'h0C2D8000;
-        fpu_op_i = 0;
-        #100;
-        check_result(opa_i, opb_i, fpu_op_i, 2.0e-30, result, 5);
-
-        // ======================
-        // ==== Summary ====
-        // ======================
-        $display("=========================================");
-        $display("✅ PASS: %0d", pass_count);
-        $display("❌ FAIL: %0d", fail_count);
-        $display("=========================================");
-        $finish;
+        $fclose(fp);
+        $display("TEST DONE, Test case: %d, Test case pass: %d, Test case fail: %d ",i, pass_cnt, fail_cnt);
+        $stop;
     end
 
 endmodule

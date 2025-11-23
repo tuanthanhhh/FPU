@@ -1,6 +1,6 @@
 Assembler report for FPU_32b
-Sun Oct 19 14:07:26 2025
-Quartus II 32-bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+Sat Nov 15 14:39:17 2025
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
 ---------------------
@@ -38,7 +38,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Sun Oct 19 14:07:26 2025 ;
+; Assembler Status      ; Successful - Sat Nov 15 14:39:17 2025 ;
 ; Revision Name         ; FPU_32b                               ;
 ; Top-level Entity Name ; FPU_32b                               ;
 ; Family                ; Cyclone II                            ;
@@ -94,8 +94,8 @@ applicable agreement for further details.
 ; Option         ; Setting                                                                                 ;
 +----------------+-----------------------------------------------------------------------------------------+
 ; Device         ; EP2C35F672C6                                                                            ;
-; JTAG usercode  ; 0x003D89FD                                                                              ;
-; Checksum       ; 0x003D89FD                                                                              ;
+; JTAG usercode  ; 0x003DC58F                                                                              ;
+; Checksum       ; 0x003DC58F                                                                              ;
 +----------------+-----------------------------------------------------------------------------------------+
 
 
@@ -106,7 +106,7 @@ applicable agreement for further details.
 +--------------------+-------------------------------------------------------------------------------------+
 ; Device             ; EPCS16                                                                              ;
 ; JTAG usercode      ; 0x00000000                                                                          ;
-; Checksum           ; 0x1C5A753B                                                                          ;
+; Checksum           ; 0x1C57DB1C                                                                          ;
 ; Compression Ratio  ; 3                                                                                   ;
 +--------------------+-------------------------------------------------------------------------------------+
 
@@ -115,15 +115,15 @@ applicable agreement for further details.
 ; Assembler Messages ;
 +--------------------+
 Info: *******************************************************************
-Info: Running Quartus II 32-bit Assembler
+Info: Running Quartus II 64-Bit Assembler
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Sun Oct 19 14:07:24 2025
+    Info: Processing started: Sat Nov 15 14:39:15 2025
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off FPU_32b -c FPU_32b
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
-Info: Quartus II 32-bit Assembler was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 360 megabytes
-    Info: Processing ended: Sun Oct 19 14:07:26 2025
+Info: Quartus II 64-Bit Assembler was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4564 megabytes
+    Info: Processing ended: Sat Nov 15 14:39:17 2025
     Info: Elapsed time: 00:00:02
     Info: Total CPU time (on all processors): 00:00:02
 
